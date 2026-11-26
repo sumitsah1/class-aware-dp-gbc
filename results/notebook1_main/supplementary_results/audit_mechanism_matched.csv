@@ -1,0 +1,7 @@
+file,eps_nominal,eps_lb_95,tau,ge,tpr,fpr,mean_S_without,mean_S_with,M
+Banknote__42,1.0,0.0,15.0,True,0.0,0.0,3.97,4.0,2000
+Banknote__42,3.0,0.0,13.0,True,0.0,0.001,4.08,4.04,2000
+BreastCancer__42,1.0,0.0,0.0,True,1.0,1.0,0.0,0.0,2000
+BreastCancer__42,3.0,0.0,0.0,True,1.0,1.0,0.0,0.0,2000
+par-shifted-k2-n2000-eps3__42,1.0,0.0,4.0,True,0.0,0.0,0.35,0.36,2000
+par-shifted-k2-n2000-eps3__42,3.0,0.0,4.0,True,0.0,0.001,0.35,0.36,2000

@@ -1,0 +1,6 @@
+file,n_train,d,dpgbc_sec,tabpe_sec_median
+Banknote,960,4,0.002,3.5
+Spambase,3220,57,0.036,16.1
+Sonar,145,60,0.02,11.5
+par-shifted-k2-n2000-eps3,1400,6,0.003,5.550000000000001
+par-shifted-k2-n50000-eps1,35000,6,0.044,27.85

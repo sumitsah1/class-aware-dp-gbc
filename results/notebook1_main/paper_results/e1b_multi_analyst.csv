@@ -1,0 +1,1681 @@
+Dataset,Seed,A,Method,bal_acc,eps_total
+Banknote,42,1,"DP-GBC (1 release, eps=3)",0.8634714964087145,3.0
+Banknote,42,1,"DP-tree (A trees, eps/A each)",0.904431240604195,3.0
+Banknote,42,1,"DP-tree (A trees, oracle depth)",0.8984059942253084,3.0
+Banknote,42,1,"DP-tree (1 shared tree, eps=3)",0.8984059942253084,3.0
+Banknote,42,2,"DP-GBC (1 release, eps=3)",0.8651120337891044,3.0
+Banknote,42,2,"DP-tree (A trees, eps/A each)",0.904431240604195,3.0
+Banknote,42,2,"DP-tree (A trees, oracle depth)",0.8885806667143914,3.0
+Banknote,42,2,"DP-tree (1 shared tree, eps=3)",0.8984059942253084,3.0
+Banknote,42,3,"DP-GBC (1 release, eps=3)",0.8567423103538788,3.0
+Banknote,42,3,"DP-tree (A trees, eps/A each)",0.8883957334096929,3.0
+Banknote,42,3,"DP-tree (A trees, oracle depth)",0.8878508761463877,3.0
+Banknote,42,3,"DP-tree (1 shared tree, eps=3)",0.8984059942253084,3.0
+Banknote,42,5,"DP-GBC (1 release, eps=3)",0.8622807645500752,3.0
+Banknote,42,5,"DP-tree (A trees, eps/A each)",0.8442599088457776,3.0
+Banknote,42,5,"DP-tree (A trees, oracle depth)",0.8633307084735247,3.0
+Banknote,42,5,"DP-tree (1 shared tree, eps=3)",0.8984059942253084,3.0
+Banknote,42,10,"DP-GBC (1 release, eps=3)",0.8622807645500752,3.0
+Banknote,42,10,"DP-tree (A trees, eps/A each)",0.8257880545016345,3.0
+Banknote,42,10,"DP-tree (A trees, oracle depth)",0.8419667358675161,3.0
+Banknote,42,10,"DP-tree (1 shared tree, eps=3)",0.8984059942253084,3.0
+Banknote,42,20,"DP-GBC (1 release, eps=3)",0.8622807645500752,3.0
+Banknote,42,20,"DP-tree (A trees, eps/A each)",0.7794288543680052,3.0
+Banknote,42,20,"DP-tree (A trees, oracle depth)",0.8239142625337056,3.0
+Banknote,42,20,"DP-tree (1 shared tree, eps=3)",0.8984059942253084,3.0
+Banknote,123,1,"DP-GBC (1 release, eps=3)",0.8699978523874293,3.0
+Banknote,123,1,"DP-tree (A trees, eps/A each)",0.9126160307347222,3.0
+Banknote,123,1,"DP-tree (A trees, oracle depth)",0.9126160307347222,3.0
+Banknote,123,1,"DP-tree (1 shared tree, eps=3)",0.9126160307347222,3.0
+Banknote,123,2,"DP-GBC (1 release, eps=3)",0.8975827427398764,3.0
+Banknote,123,2,"DP-tree (A trees, eps/A each)",0.9052306297277304,3.0
+Banknote,123,2,"DP-tree (A trees, oracle depth)",0.9188918319135229,3.0
+Banknote,123,2,"DP-tree (1 shared tree, eps=3)",0.9126160307347222,3.0
+Banknote,123,3,"DP-GBC (1 release, eps=3)",0.8993167410376945,3.0
+Banknote,123,3,"DP-tree (A trees, eps/A each)",0.8488597768073752,3.0
+Banknote,123,3,"DP-tree (A trees, oracle depth)",0.8887735541397221,3.0
+Banknote,123,3,"DP-tree (1 shared tree, eps=3)",0.9126160307347222,3.0
+Banknote,123,5,"DP-GBC (1 release, eps=3)",0.8887894623809863,3.0
+Banknote,123,5,"DP-tree (A trees, eps/A each)",0.8680411387119097,3.0
+Banknote,123,5,"DP-tree (A trees, oracle depth)",0.8615147827331949,3.0
+Banknote,123,5,"DP-tree (1 shared tree, eps=3)",0.9126160307347222,3.0
+Banknote,123,10,"DP-GBC (1 release, eps=3)",0.8887894623809863,3.0
+Banknote,123,10,"DP-tree (A trees, eps/A each)",0.8296430190660271,3.0
+Banknote,123,10,"DP-tree (A trees, oracle depth)",0.8430333834442933,3.0
+Banknote,123,10,"DP-tree (1 shared tree, eps=3)",0.9126160307347222,3.0
+Banknote,123,20,"DP-GBC (1 release, eps=3)",0.8887894623809866,3.0
+Banknote,123,20,"DP-tree (A trees, eps/A each)",0.7657825661583983,3.0
+Banknote,123,20,"DP-tree (A trees, oracle depth)",0.8378087193070372,3.0
+Banknote,123,20,"DP-tree (1 shared tree, eps=3)",0.9126160307347222,3.0
+Banknote,456,1,"DP-GBC (1 release, eps=3)",0.8519340444317178,3.0
+Banknote,456,1,"DP-tree (A trees, eps/A each)",0.8940511131791824,3.0
+Banknote,456,1,"DP-tree (A trees, oracle depth)",0.8776576705562316,3.0
+Banknote,456,1,"DP-tree (1 shared tree, eps=3)",0.8973321879399623,3.0
+Banknote,456,2,"DP-GBC (1 release, eps=3)",0.8708032071014389,3.0
+Banknote,456,2,"DP-tree (A trees, eps/A each)",0.8842317512587395,3.0
+Banknote,456,2,"DP-tree (A trees, oracle depth)",0.881744100031021,3.0
+Banknote,456,2,"DP-tree (1 shared tree, eps=3)",0.8973321879399623,3.0
+Banknote,456,3,"DP-GBC (1 release, eps=3)",0.8781866195782726,3.0
+Banknote,456,3,"DP-tree (A trees, eps/A each)",0.8791053205112909,3.0
+Banknote,456,3,"DP-tree (A trees, oracle depth)",0.8776576705562316,3.0
+Banknote,456,3,"DP-tree (1 shared tree, eps=3)",0.8973321879399623,3.0
+Banknote,456,5,"DP-GBC (1 release, eps=3)",0.8869210394444844,3.0
+Banknote,456,5,"DP-tree (A trees, eps/A each)",0.8414918748657743,3.0
+Banknote,456,5,"DP-tree (A trees, oracle depth)",0.8663922495048559,3.0
+Banknote,456,5,"DP-tree (1 shared tree, eps=3)",0.8973321879399623,3.0
+Banknote,456,10,"DP-GBC (1 release, eps=3)",0.8869210394444842,3.0
+Banknote,456,10,"DP-tree (A trees, eps/A each)",0.8414668193857828,3.0
+Banknote,456,10,"DP-tree (A trees, oracle depth)",0.8458276660223827,3.0
+Banknote,456,10,"DP-tree (1 shared tree, eps=3)",0.8973321879399623,3.0
+Banknote,456,20,"DP-GBC (1 release, eps=3)",0.8869210394444844,3.0
+Banknote,456,20,"DP-tree (A trees, eps/A each)",0.7413081346791704,3.0
+Banknote,456,20,"DP-tree (A trees, oracle depth)",0.8126100651442479,3.0
+Banknote,456,20,"DP-tree (1 shared tree, eps=3)",0.8973321879399623,3.0
+Banknote,789,1,"DP-GBC (1 release, eps=3)",0.8803660486314935,3.0
+Banknote,789,1,"DP-tree (A trees, eps/A each)",0.9142625337055862,3.0
+Banknote,789,1,"DP-tree (A trees, oracle depth)",0.9142625337055862,3.0
+Banknote,789,1,"DP-tree (1 shared tree, eps=3)",0.9142625337055862,3.0
+Banknote,789,2,"DP-GBC (1 release, eps=3)",0.8959481709499606,3.0
+Banknote,789,2,"DP-tree (A trees, eps/A each)",0.9036020235282889,3.0
+Banknote,789,2,"DP-tree (A trees, oracle depth)",0.8954053022168134,3.0
+Banknote,789,2,"DP-tree (1 shared tree, eps=3)",0.9142625337055862,3.0
+Banknote,789,3,"DP-GBC (1 release, eps=3)",0.8780116289243644,3.0
+Banknote,789,3,"DP-tree (A trees, eps/A each)",0.8971452661051057,3.0
+Banknote,789,3,"DP-tree (A trees, oracle depth)",0.8843868566110674,3.0
+Banknote,789,3,"DP-tree (1 shared tree, eps=3)",0.9142625337055862,3.0
+Banknote,789,5,"DP-GBC (1 release, eps=3)",0.87906554990813,3.0
+Banknote,789,5,"DP-tree (A trees, eps/A each)",0.8739446870451237,3.0
+Banknote,789,5,"DP-tree (A trees, oracle depth)",0.8845538931443434,3.0
+Banknote,789,5,"DP-tree (1 shared tree, eps=3)",0.9142625337055862,3.0
+Banknote,789,10,"DP-GBC (1 release, eps=3)",0.8790655499081298,3.0
+Banknote,789,10,"DP-tree (A trees, eps/A each)",0.8288806166034315,3.0
+Banknote,789,10,"DP-tree (A trees, oracle depth)",0.8533132889493402,3.0
+Banknote,789,10,"DP-tree (1 shared tree, eps=3)",0.9142625337055862,3.0
+Banknote,789,20,"DP-GBC (1 release, eps=3)",0.8790655499081298,3.0
+Banknote,789,20,"DP-tree (A trees, eps/A each)",0.7575440857136039,3.0
+Banknote,789,20,"DP-tree (A trees, oracle depth)",0.8268117498269978,3.0
+Banknote,789,20,"DP-tree (1 shared tree, eps=3)",0.9142625337055862,3.0
+Banknote,101,1,"DP-GBC (1 release, eps=3)",0.8502875414608538,3.0
+Banknote,101,1,"DP-tree (A trees, eps/A each)",0.9000524971961725,3.0
+Banknote,101,1,"DP-tree (A trees, oracle depth)",0.9137136993819648,3.0
+Banknote,101,1,"DP-tree (1 shared tree, eps=3)",0.9109814589448064,3.0
+Banknote,101,2,"DP-GBC (1 release, eps=3)",0.8710716586727754,3.0
+Banknote,101,2,"DP-tree (A trees, eps/A each)",0.8833786718209368,3.0
+Banknote,101,2,"DP-tree (A trees, oracle depth)",0.907968835755363,3.0
+Banknote,101,2,"DP-tree (1 shared tree, eps=3)",0.9109814589448064,3.0
+Banknote,101,3,"DP-GBC (1 release, eps=3)",0.8656191089794069,3.0
+Banknote,101,3,"DP-tree (A trees, eps/A each)",0.9024148710239338,3.0
+Banknote,101,3,"DP-tree (A trees, oracle depth)",0.891855775884697,3.0
+Banknote,101,3,"DP-tree (1 shared tree, eps=3)",0.9109814589448064,3.0
+Banknote,101,5,"DP-GBC (1 release, eps=3)",0.864745746533992,3.0
+Banknote,101,5,"DP-tree (A trees, eps/A each)",0.8719545660629489,3.0
+Banknote,101,5,"DP-tree (A trees, oracle depth)",0.885310330016465,3.0
+Banknote,101,5,"DP-tree (1 shared tree, eps=3)",0.9109814589448064,3.0
+Banknote,101,10,"DP-GBC (1 release, eps=3)",0.8647457465339918,3.0
+Banknote,101,10,"DP-tree (A trees, eps/A each)",0.8226191328417686,3.0
+Banknote,101,10,"DP-tree (A trees, oracle depth)",0.8568103180852841,3.0
+Banknote,101,10,"DP-tree (1 shared tree, eps=3)",0.9109814589448064,3.0
+Banknote,101,20,"DP-GBC (1 release, eps=3)",0.8647457465339918,3.0
+Banknote,101,20,"DP-tree (A trees, eps/A each)",0.7175817882454005,3.0
+Banknote,101,20,"DP-tree (A trees, oracle depth)",0.8432791657718284,3.0
+Banknote,101,20,"DP-tree (1 shared tree, eps=3)",0.9109814589448064,3.0
+Banknote,2024,1,"DP-GBC (1 release, eps=3)",0.8590569594578472,3.0
+Banknote,2024,1,"DP-tree (A trees, eps/A each)",0.9197150833989549,3.0
+Banknote,2024,1,"DP-tree (A trees, oracle depth)",0.9213615863698189,3.0
+Banknote,2024,1,"DP-tree (1 shared tree, eps=3)",0.914250602524638,3.0
+Banknote,2024,2,"DP-GBC (1 release, eps=3)",0.8790058940033885,3.0
+Banknote,2024,2,"DP-tree (A trees, eps/A each)",0.8711134178060944,3.0
+Banknote,2024,2,"DP-tree (A trees, oracle depth)",0.918897797503997,3.0
+Banknote,2024,2,"DP-tree (1 shared tree, eps=3)",0.914250602524638,3.0
+Banknote,2024,3,"DP-GBC (1 release, eps=3)",0.8772798498262024,3.0
+Banknote,2024,3,"DP-tree (A trees, eps/A each)",0.8974952474129223,3.0
+Banknote,2024,3,"DP-tree (A trees, oracle depth)",0.8911200197262192,3.0
+Banknote,2024,3,"DP-tree (1 shared tree, eps=3)",0.914250602524638,3.0
+Banknote,2024,5,"DP-GBC (1 release, eps=3)",0.8743646646145036,3.0
+Banknote,2024,5,"DP-tree (A trees, eps/A each)",0.8413725630562914,3.0
+Banknote,2024,5,"DP-tree (A trees, oracle depth)",0.8548166177488248,3.0
+Banknote,2024,5,"DP-tree (1 shared tree, eps=3)",0.914250602524638,3.0
+Banknote,2024,10,"DP-GBC (1 release, eps=3)",0.8743646646145035,3.0
+Banknote,2024,10,"DP-tree (A trees, eps/A each)",0.8308659651132271,3.0
+Banknote,2024,10,"DP-tree (A trees, oracle depth)",0.8483308277853341,3.0
+Banknote,2024,10,"DP-tree (1 shared tree, eps=3)",0.914250602524638,3.0
+Banknote,2024,20,"DP-GBC (1 release, eps=3)",0.8743646646145035,3.0
+Banknote,2024,20,"DP-tree (A trees, eps/A each)",0.7766709618918081,3.0
+Banknote,2024,20,"DP-tree (A trees, oracle depth)",0.8222689526809364,3.0
+Banknote,2024,20,"DP-tree (1 shared tree, eps=3)",0.914250602524638,3.0
+Banknote,2025,1,"DP-GBC (1 release, eps=3)",0.797850001193118,3.0
+Banknote,2025,1,"DP-tree (A trees, eps/A each)",0.9158851743145536,3.0
+Banknote,2025,1,"DP-tree (A trees, oracle depth)",0.85966544968621,3.0
+Banknote,2025,1,"DP-tree (1 shared tree, eps=3)",0.9011501658434151,3.0
+Banknote,2025,2,"DP-GBC (1 release, eps=3)",0.8355704297611377,3.0
+Banknote,2025,2,"DP-tree (A trees, eps/A each)",0.8814816140501587,3.0
+Banknote,2025,2,"DP-tree (A trees, oracle depth)",0.8705407211205765,3.0
+Banknote,2025,2,"DP-tree (1 shared tree, eps=3)",0.9011501658434151,3.0
+Banknote,2025,3,"DP-GBC (1 release, eps=3)",0.8410408762259288,3.0
+Banknote,2025,3,"DP-tree (A trees, eps/A each)",0.8754822185633268,3.0
+Banknote,2025,3,"DP-tree (A trees, oracle depth)",0.8614591038887696,3.0
+Banknote,2025,3,"DP-tree (1 shared tree, eps=3)",0.9011501658434151,3.0
+Banknote,2025,5,"DP-GBC (1 release, eps=3)",0.8286849452358794,3.0
+Banknote,2025,5,"DP-tree (A trees, eps/A each)",0.8099386737299257,3.0
+Banknote,2025,5,"DP-tree (A trees, oracle depth)",0.8477509723912473,3.0
+Banknote,2025,5,"DP-tree (1 shared tree, eps=3)",0.9011501658434151,3.0
+Banknote,2025,10,"DP-GBC (1 release, eps=3)",0.8286849452358794,3.0
+Banknote,2025,10,"DP-tree (A trees, eps/A each)",0.7964492805497889,3.0
+Banknote,2025,10,"DP-tree (A trees, oracle depth)",0.8244362517001932,3.0
+Banknote,2025,10,"DP-tree (1 shared tree, eps=3)",0.9011501658434151,3.0
+Banknote,2025,20,"DP-GBC (1 release, eps=3)",0.8286849452358795,3.0
+Banknote,2025,20,"DP-tree (A trees, eps/A each)",0.6832850120504927,3.0
+Banknote,2025,20,"DP-tree (A trees, oracle depth)",0.7974145130885056,3.0
+Banknote,2025,20,"DP-tree (1 shared tree, eps=3)",0.9011501658434151,3.0
+Banknote,2026,1,"DP-GBC (1 release, eps=3)",0.8727181616436395,3.0
+Banknote,2026,1,"DP-tree (A trees, eps/A each)",0.8875008948385712,3.0
+Banknote,2026,1,"DP-tree (A trees, oracle depth)",0.9093349559739423,3.0
+Banknote,2026,1,"DP-tree (1 shared tree, eps=3)",0.8984298565872051,3.0
+Banknote,2026,2,"DP-GBC (1 release, eps=3)",0.8732789271482091,3.0
+Banknote,2026,2,"DP-tree (A trees, eps/A each)",0.890209272913833,3.0
+Banknote,2026,2,"DP-tree (A trees, oracle depth)",0.8989727253203522,3.0
+Banknote,2026,2,"DP-tree (1 shared tree, eps=3)",0.8984298565872051,3.0
+Banknote,2026,3,"DP-GBC (1 release, eps=3)",0.8618210163775344,3.0
+Banknote,2026,3,"DP-tree (A trees, eps/A each)",0.8838618846493427,3.0
+Banknote,2026,3,"DP-tree (A trees, oracle depth)",0.8656668337032,3.0
+Banknote,2026,3,"DP-tree (1 shared tree, eps=3)",0.8984298565872051,3.0
+Banknote,2026,5,"DP-GBC (1 release, eps=3)",0.8639940821342496,3.0
+Banknote,2026,5,"DP-tree (A trees, eps/A each)",0.8438184551506908,3.0
+Banknote,2026,5,"DP-tree (A trees, oracle depth)",0.8586417543608466,3.0
+Banknote,2026,5,"DP-tree (1 shared tree, eps=3)",0.8984298565872051,3.0
+Banknote,2026,10,"DP-GBC (1 release, eps=3)",0.8639940821342496,3.0
+Banknote,2026,10,"DP-tree (A trees, eps/A each)",0.8377240079223041,3.0
+Banknote,2026,10,"DP-tree (A trees, oracle depth)",0.8314422411530293,3.0
+Banknote,2026,10,"DP-tree (1 shared tree, eps=3)",0.8984298565872051,3.0
+Banknote,2026,20,"DP-GBC (1 release, eps=3)",0.8639940821342498,3.0
+Banknote,2026,20,"DP-tree (A trees, eps/A each)",0.7714779153840646,3.0
+Banknote,2026,20,"DP-tree (A trees, oracle depth)",0.8261048273558117,3.0
+Banknote,2026,20,"DP-tree (1 shared tree, eps=3)",0.8984298565872051,3.0
+Banknote,2027,1,"DP-GBC (1 release, eps=3)",0.8820125516023576,3.0
+Banknote,2027,1,"DP-tree (A trees, eps/A each)",0.9109814589448064,3.0
+Banknote,2027,1,"DP-tree (A trees, oracle depth)",0.88639129501038,3.0
+Banknote,2027,1,"DP-tree (1 shared tree, eps=3)",0.9022478344906579,3.0
+Banknote,2027,2,"DP-GBC (1 release, eps=3)",0.8954053022168134,3.0
+Banknote,2027,2,"DP-tree (A trees, eps/A each)",0.9082492185076478,3.0
+Banknote,2027,2,"DP-tree (A trees, oracle depth)",0.88639129501038,3.0
+Banknote,2027,2,"DP-tree (1 shared tree, eps=3)",0.9022478344906579,3.0
+Banknote,2027,3,"DP-GBC (1 release, eps=3)",0.8971373119844736,3.0
+Banknote,2027,3,"DP-tree (A trees, eps/A each)",0.8860055201597188,3.0
+Banknote,2027,3,"DP-tree (A trees, oracle depth)",0.8800120902633609,3.0
+Banknote,2027,3,"DP-tree (1 shared tree, eps=3)",0.9022478344906579,3.0
+Banknote,2027,5,"DP-GBC (1 release, eps=3)",0.8957882931252534,3.0
+Banknote,2027,5,"DP-tree (A trees, eps/A each)",0.8430238384995347,3.0
+Banknote,2027,5,"DP-tree (A trees, oracle depth)",0.8672847018397881,3.0
+Banknote,2027,5,"DP-tree (1 shared tree, eps=3)",0.9022478344906579,3.0
+Banknote,2027,10,"DP-GBC (1 release, eps=3)",0.8957882931252534,3.0
+Banknote,2027,10,"DP-tree (A trees, eps/A each)",0.846357410456487,3.0
+Banknote,2027,10,"DP-tree (A trees, oracle depth)",0.8526499152886153,3.0
+Banknote,2027,10,"DP-tree (1 shared tree, eps=3)",0.9022478344906579,3.0
+Banknote,2027,20,"DP-GBC (1 release, eps=3)",0.8957882931252534,3.0
+Banknote,2027,20,"DP-tree (A trees, eps/A each)",0.731025842937934,3.0
+Banknote,2027,20,"DP-tree (A trees, oracle depth)",0.82833178227981,3.0
+Banknote,2027,20,"DP-tree (1 shared tree, eps=3)",0.9022478344906579,3.0
+Banknote,2028,1,"DP-GBC (1 release, eps=3)",0.8606915312477629,3.0
+Banknote,2028,1,"DP-tree (A trees, eps/A each)",0.9016990001670365,3.0
+Banknote,2028,1,"DP-tree (A trees, oracle depth)",0.9016990001670365,3.0
+Banknote,2028,1,"DP-tree (1 shared tree, eps=3)",0.876560001908989,3.0
+Banknote,2028,2,"DP-GBC (1 release, eps=3)",0.8833727062304626,3.0
+Banknote,2028,2,"DP-tree (A trees, eps/A each)",0.8866537809912426,3.0
+Banknote,2028,2,"DP-tree (A trees, oracle depth)",0.9071515498604052,3.0
+Banknote,2028,2,"DP-tree (1 shared tree, eps=3)",0.876560001908989,3.0
+Banknote,2028,3,"DP-GBC (1 release, eps=3)",0.8803779798124417,3.0
+Banknote,2028,3,"DP-tree (A trees, eps/A each)",0.871091543974356,3.0
+Banknote,2028,3,"DP-tree (A trees, oracle depth)",0.876560001908989,3.0
+Banknote,2028,3,"DP-tree (1 shared tree, eps=3)",0.876560001908989,3.0
+Banknote,2028,5,"DP-GBC (1 release, eps=3)",0.8723960197580356,3.0
+Banknote,2028,5,"DP-tree (A trees, eps/A each)",0.8517598491898729,3.0
+Banknote,2028,5,"DP-tree (A trees, oracle depth)",0.8620349822225404,3.0
+Banknote,2028,5,"DP-tree (1 shared tree, eps=3)",0.876560001908989,3.0
+Banknote,2028,10,"DP-GBC (1 release, eps=3)",0.8723960197580356,3.0
+Banknote,2028,10,"DP-tree (A trees, eps/A each)",0.7976173431646265,3.0
+Banknote,2028,10,"DP-tree (A trees, oracle depth)",0.8335087216932731,3.0
+Banknote,2028,10,"DP-tree (1 shared tree, eps=3)",0.876560001908989,3.0
+Banknote,2028,20,"DP-GBC (1 release, eps=3)",0.8723960197580357,3.0
+Banknote,2028,20,"DP-tree (A trees, eps/A each)",0.7202442312740115,3.0
+Banknote,2028,20,"DP-tree (A trees, oracle depth)",0.8107720667191638,3.0
+Banknote,2028,20,"DP-tree (1 shared tree, eps=3)",0.876560001908989,3.0
+BreastCancer,42,1,"DP-GBC (1 release, eps=3)",0.7912529205607477,3.0
+BreastCancer,42,1,"DP-tree (A trees, eps/A each)",0.890625,3.0
+BreastCancer,42,1,"DP-tree (A trees, oracle depth)",0.9001168224299065,3.0
+BreastCancer,42,1,"DP-tree (1 shared tree, eps=3)",0.876606308411215,3.0
+BreastCancer,42,2,"DP-GBC (1 release, eps=3)",0.8323598130841121,3.0
+BreastCancer,42,2,"DP-tree (A trees, eps/A each)",0.8986200350467289,3.0
+BreastCancer,42,2,"DP-tree (A trees, oracle depth)",0.8962105724299065,3.0
+BreastCancer,42,2,"DP-tree (1 shared tree, eps=3)",0.876606308411215,3.0
+BreastCancer,42,3,"DP-GBC (1 release, eps=3)",0.8382739485981308,3.0
+BreastCancer,42,3,"DP-tree (A trees, eps/A each)",0.8773121105919003,3.0
+BreastCancer,42,3,"DP-tree (A trees, oracle depth)",0.8812792056074766,3.0
+BreastCancer,42,3,"DP-tree (1 shared tree, eps=3)",0.876606308411215,3.0
+BreastCancer,42,5,"DP-GBC (1 release, eps=3)",0.7961156542056075,3.0
+BreastCancer,42,5,"DP-tree (A trees, eps/A each)",0.8057242990654206,3.0
+BreastCancer,42,5,"DP-tree (A trees, oracle depth)",0.8708235981308412,3.0
+BreastCancer,42,5,"DP-tree (1 shared tree, eps=3)",0.876606308411215,3.0
+BreastCancer,42,10,"DP-GBC (1 release, eps=3)",0.7961156542056076,3.0
+BreastCancer,42,10,"DP-tree (A trees, eps/A each)",0.7544757593457944,3.0
+BreastCancer,42,10,"DP-tree (A trees, oracle depth)",0.8613609813084112,3.0
+BreastCancer,42,10,"DP-tree (1 shared tree, eps=3)",0.876606308411215,3.0
+BreastCancer,42,20,"DP-GBC (1 release, eps=3)",0.7961156542056075,3.0
+BreastCancer,42,20,"DP-tree (A trees, eps/A each)",0.6086923189252336,3.0
+BreastCancer,42,20,"DP-tree (A trees, oracle depth)",0.6993100175233644,3.0
+BreastCancer,42,20,"DP-tree (1 shared tree, eps=3)",0.876606308411215,3.0
+BreastCancer,123,1,"DP-GBC (1 release, eps=3)",0.9017231308411215,3.0
+BreastCancer,123,1,"DP-tree (A trees, eps/A each)",0.9437792056074766,3.0
+BreastCancer,123,1,"DP-tree (A trees, oracle depth)",0.9328271028037383,3.0
+BreastCancer,123,1,"DP-tree (1 shared tree, eps=3)",0.900043808411215,3.0
+BreastCancer,123,2,"DP-GBC (1 release, eps=3)",0.9024532710280374,3.0
+BreastCancer,123,2,"DP-tree (A trees, eps/A each)",0.9344334112149533,3.0
+BreastCancer,123,2,"DP-tree (A trees, oracle depth)",0.9282272196261683,3.0
+BreastCancer,123,2,"DP-tree (1 shared tree, eps=3)",0.900043808411215,3.0
+BreastCancer,123,3,"DP-GBC (1 release, eps=3)",0.9053008177570093,3.0
+BreastCancer,123,3,"DP-tree (A trees, eps/A each)",0.9052521417445482,3.0
+BreastCancer,123,3,"DP-tree (A trees, oracle depth)",0.9099007009345795,3.0
+BreastCancer,123,3,"DP-tree (1 shared tree, eps=3)",0.900043808411215,3.0
+BreastCancer,123,5,"DP-GBC (1 release, eps=3)",0.7652599299065421,3.0
+BreastCancer,123,5,"DP-tree (A trees, eps/A each)",0.8578855140186915,3.0
+BreastCancer,123,5,"DP-tree (A trees, oracle depth)",0.8584696261682243,3.0
+BreastCancer,123,5,"DP-tree (1 shared tree, eps=3)",0.900043808411215,3.0
+BreastCancer,123,10,"DP-GBC (1 release, eps=3)",0.7652599299065421,3.0
+BreastCancer,123,10,"DP-tree (A trees, eps/A each)",0.8027745327102804,3.0
+BreastCancer,123,10,"DP-tree (A trees, oracle depth)",0.7881060163551402,3.0
+BreastCancer,123,10,"DP-tree (1 shared tree, eps=3)",0.900043808411215,3.0
+BreastCancer,123,20,"DP-GBC (1 release, eps=3)",0.7652599299065421,3.0
+BreastCancer,123,20,"DP-tree (A trees, eps/A each)",0.6396028037383178,3.0
+BreastCancer,123,20,"DP-tree (A trees, oracle depth)",0.7388763142523365,3.0
+BreastCancer,123,20,"DP-tree (1 shared tree, eps=3)",0.900043808411215,3.0
+BreastCancer,456,1,"DP-GBC (1 release, eps=3)",0.8359375,3.0
+BreastCancer,456,1,"DP-tree (A trees, eps/A each)",0.9640771028037383,3.0
+BreastCancer,456,1,"DP-tree (A trees, oracle depth)",0.9282272196261683,3.0
+BreastCancer,456,1,"DP-tree (1 shared tree, eps=3)",0.8969772196261683,3.0
+BreastCancer,456,2,"DP-GBC (1 release, eps=3)",0.8765698014018691,3.0
+BreastCancer,456,2,"DP-tree (A trees, eps/A each)",0.8937646028037383,3.0
+BreastCancer,456,2,"DP-tree (A trees, oracle depth)",0.9093896028037383,3.0
+BreastCancer,456,2,"DP-tree (1 shared tree, eps=3)",0.8969772196261683,3.0
+BreastCancer,456,3,"DP-GBC (1 release, eps=3)",0.8875097352024922,3.0
+BreastCancer,456,3,"DP-tree (A trees, eps/A each)",0.8792348130841122,3.0
+BreastCancer,456,3,"DP-tree (A trees, oracle depth)",0.9057632398753895,3.0
+BreastCancer,456,3,"DP-tree (1 shared tree, eps=3)",0.8969772196261683,3.0
+BreastCancer,456,5,"DP-GBC (1 release, eps=3)",0.8034462616822429,3.0
+BreastCancer,456,5,"DP-tree (A trees, eps/A each)",0.8586156542056076,3.0
+BreastCancer,456,5,"DP-tree (A trees, oracle depth)",0.9037967289719626,3.0
+BreastCancer,456,5,"DP-tree (1 shared tree, eps=3)",0.8969772196261683,3.0
+BreastCancer,456,10,"DP-GBC (1 release, eps=3)",0.8034462616822429,3.0
+BreastCancer,456,10,"DP-tree (A trees, eps/A each)",0.7911141939252336,3.0
+BreastCancer,456,10,"DP-tree (A trees, oracle depth)",0.8111711448598131,3.0
+BreastCancer,456,10,"DP-tree (1 shared tree, eps=3)",0.8969772196261683,3.0
+BreastCancer,456,20,"DP-GBC (1 release, eps=3)",0.8034462616822429,3.0
+BreastCancer,456,20,"DP-tree (A trees, eps/A each)",0.7030775408878505,3.0
+BreastCancer,456,20,"DP-tree (A trees, oracle depth)",0.6798590829439253,3.0
+BreastCancer,456,20,"DP-tree (1 shared tree, eps=3)",0.8969772196261683,3.0
+BreastCancer,789,1,"DP-GBC (1 release, eps=3)",0.8333089953271028,3.0
+BreastCancer,789,1,"DP-tree (A trees, eps/A each)",0.8673335280373832,3.0
+BreastCancer,789,1,"DP-tree (A trees, oracle depth)",0.9375730140186915,3.0
+BreastCancer,789,1,"DP-tree (1 shared tree, eps=3)",0.8937646028037383,3.0
+BreastCancer,789,2,"DP-GBC (1 release, eps=3)",0.8643399532710281,3.0
+BreastCancer,789,2,"DP-tree (A trees, eps/A each)",0.8945677570093458,3.0
+BreastCancer,789,2,"DP-tree (A trees, oracle depth)",0.8992771612149533,3.0
+BreastCancer,789,2,"DP-tree (1 shared tree, eps=3)",0.8937646028037383,3.0
+BreastCancer,789,3,"DP-GBC (1 release, eps=3)",0.8668954439252335,3.0
+BreastCancer,789,3,"DP-tree (A trees, eps/A each)",0.8578417056074766,3.0
+BreastCancer,789,3,"DP-tree (A trees, oracle depth)",0.9016501168224299,3.0
+BreastCancer,789,3,"DP-tree (1 shared tree, eps=3)",0.8937646028037383,3.0
+BreastCancer,789,5,"DP-GBC (1 release, eps=3)",0.7982768691588784,3.0
+BreastCancer,789,5,"DP-tree (A trees, eps/A each)",0.8505257009345794,3.0
+BreastCancer,789,5,"DP-tree (A trees, oracle depth)",0.8701372663551401,3.0
+BreastCancer,789,5,"DP-tree (1 shared tree, eps=3)",0.8937646028037383,3.0
+BreastCancer,789,10,"DP-GBC (1 release, eps=3)",0.7982768691588785,3.0
+BreastCancer,789,10,"DP-tree (A trees, eps/A each)",0.6964734228971963,3.0
+BreastCancer,789,10,"DP-tree (A trees, oracle depth)",0.8528913551401869,3.0
+BreastCancer,789,10,"DP-tree (1 shared tree, eps=3)",0.8937646028037383,3.0
+BreastCancer,789,20,"DP-GBC (1 release, eps=3)",0.7982768691588785,3.0
+BreastCancer,789,20,"DP-tree (A trees, eps/A each)",0.6526431074766356,3.0
+BreastCancer,789,20,"DP-tree (A trees, oracle depth)",0.701310601635514,3.0
+BreastCancer,789,20,"DP-tree (1 shared tree, eps=3)",0.8937646028037383,3.0
+BreastCancer,101,1,"DP-GBC (1 release, eps=3)",0.703125,3.0
+BreastCancer,101,1,"DP-tree (A trees, eps/A each)",0.8781396028037383,3.0
+BreastCancer,101,1,"DP-tree (A trees, oracle depth)",0.8890917056074766,3.0
+BreastCancer,101,1,"DP-tree (1 shared tree, eps=3)",0.884418808411215,3.0
+BreastCancer,101,2,"DP-GBC (1 release, eps=3)",0.7820896612149533,3.0
+BreastCancer,101,2,"DP-tree (A trees, eps/A each)",0.8828490070093458,3.0
+BreastCancer,101,2,"DP-tree (A trees, oracle depth)",0.9047897196261683,3.0
+BreastCancer,101,2,"DP-tree (1 shared tree, eps=3)",0.884418808411215,3.0
+BreastCancer,101,3,"DP-GBC (1 release, eps=3)",0.8115508177570093,3.0
+BreastCancer,101,3,"DP-tree (A trees, eps/A each)",0.8860737928348911,3.0
+BreastCancer,101,3,"DP-tree (A trees, oracle depth)",0.8844431464174454,3.0
+BreastCancer,101,3,"DP-tree (1 shared tree, eps=3)",0.884418808411215,3.0
+BreastCancer,101,5,"DP-GBC (1 release, eps=3)",0.7626898364485981,3.0
+BreastCancer,101,5,"DP-tree (A trees, eps/A each)",0.8301255841121495,3.0
+BreastCancer,101,5,"DP-tree (A trees, oracle depth)",0.8878942757009346,3.0
+BreastCancer,101,5,"DP-tree (1 shared tree, eps=3)",0.884418808411215,3.0
+BreastCancer,101,10,"DP-GBC (1 release, eps=3)",0.7626898364485981,3.0
+BreastCancer,101,10,"DP-tree (A trees, eps/A each)",0.7634710864485982,3.0
+BreastCancer,101,10,"DP-tree (A trees, oracle depth)",0.8385367990654207,3.0
+BreastCancer,101,10,"DP-tree (1 shared tree, eps=3)",0.884418808411215,3.0
+BreastCancer,101,20,"DP-GBC (1 release, eps=3)",0.7626898364485981,3.0
+BreastCancer,101,20,"DP-tree (A trees, eps/A each)",0.5983863901869159,3.0
+BreastCancer,101,20,"DP-tree (A trees, oracle depth)",0.6577467873831776,3.0
+BreastCancer,101,20,"DP-tree (1 shared tree, eps=3)",0.884418808411215,3.0
+BreastCancer,2024,1,"DP-GBC (1 release, eps=3)",0.8985835280373832,3.0
+BreastCancer,2024,1,"DP-tree (A trees, eps/A each)",0.8969042056074766,3.0
+BreastCancer,2024,1,"DP-tree (A trees, oracle depth)",0.9344334112149533,3.0
+BreastCancer,2024,1,"DP-tree (1 shared tree, eps=3)",0.9015771028037383,3.0
+BreastCancer,2024,2,"DP-GBC (1 release, eps=3)",0.8664938668224299,3.0
+BreastCancer,2024,2,"DP-tree (A trees, eps/A each)",0.8391501168224299,3.0
+BreastCancer,2024,2,"DP-tree (A trees, oracle depth)",0.9047897196261682,3.0
+BreastCancer,2024,2,"DP-tree (1 shared tree, eps=3)",0.9015771028037383,3.0
+BreastCancer,2024,3,"DP-GBC (1 release, eps=3)",0.8599591121495327,3.0
+BreastCancer,2024,3,"DP-tree (A trees, eps/A each)",0.9198549454828661,3.0
+BreastCancer,2024,3,"DP-tree (A trees, oracle depth)",0.9027453271028038,3.0
+BreastCancer,2024,3,"DP-tree (1 shared tree, eps=3)",0.9015771028037383,3.0
+BreastCancer,2024,5,"DP-GBC (1 release, eps=3)",0.7806658878504672,3.0
+BreastCancer,2024,5,"DP-tree (A trees, eps/A each)",0.8270297897196262,3.0
+BreastCancer,2024,5,"DP-tree (A trees, oracle depth)",0.9025846962616824,3.0
+BreastCancer,2024,5,"DP-tree (1 shared tree, eps=3)",0.9015771028037383,3.0
+BreastCancer,2024,10,"DP-GBC (1 release, eps=3)",0.7806658878504672,3.0
+BreastCancer,2024,10,"DP-tree (A trees, eps/A each)",0.754957651869159,3.0
+BreastCancer,2024,10,"DP-tree (A trees, oracle depth)",0.8207067757009346,3.0
+BreastCancer,2024,10,"DP-tree (1 shared tree, eps=3)",0.9015771028037383,3.0
+BreastCancer,2024,20,"DP-GBC (1 release, eps=3)",0.7806658878504674,3.0
+BreastCancer,2024,20,"DP-tree (A trees, eps/A each)",0.6556366822429907,3.0
+BreastCancer,2024,20,"DP-tree (A trees, oracle depth)",0.7302789135514018,3.0
+BreastCancer,2024,20,"DP-tree (1 shared tree, eps=3)",0.9015771028037383,3.0
+BreastCancer,2025,1,"DP-GBC (1 release, eps=3)",0.7421875,3.0
+BreastCancer,2025,1,"DP-tree (A trees, eps/A each)",0.8656542056074766,3.0
+BreastCancer,2025,1,"DP-tree (A trees, oracle depth)",0.8656542056074766,3.0
+BreastCancer,2025,1,"DP-tree (1 shared tree, eps=3)",0.8626606308411215,3.0
+BreastCancer,2025,2,"DP-GBC (1 release, eps=3)",0.8062573014018691,3.0
+BreastCancer,2025,2,"DP-tree (A trees, eps/A each)",0.8093969042056075,3.0
+BreastCancer,2025,2,"DP-tree (A trees, oracle depth)",0.8711302570093458,3.0
+BreastCancer,2025,2,"DP-tree (1 shared tree, eps=3)",0.8626606308411215,3.0
+BreastCancer,2025,3,"DP-GBC (1 release, eps=3)",0.826056269470405,3.0
+BreastCancer,2025,3,"DP-tree (A trees, eps/A each)",0.8563327492211839,3.0
+BreastCancer,2025,3,"DP-tree (A trees, oracle depth)",0.8651917834890965,3.0
+BreastCancer,2025,3,"DP-tree (1 shared tree, eps=3)",0.8626606308411215,3.0
+BreastCancer,2025,5,"DP-GBC (1 release, eps=3)",0.748758761682243,3.0
+BreastCancer,2025,5,"DP-tree (A trees, eps/A each)",0.8194217289719626,3.0
+BreastCancer,2025,5,"DP-tree (A trees, oracle depth)",0.8426255841121495,3.0
+BreastCancer,2025,5,"DP-tree (1 shared tree, eps=3)",0.8626606308411215,3.0
+BreastCancer,2025,10,"DP-GBC (1 release, eps=3)",0.7487587616822429,3.0
+BreastCancer,2025,10,"DP-tree (A trees, eps/A each)",0.7060966705607477,3.0
+BreastCancer,2025,10,"DP-tree (A trees, oracle depth)",0.7755403037383177,3.0
+BreastCancer,2025,10,"DP-tree (1 shared tree, eps=3)",0.8626606308411215,3.0
+BreastCancer,2025,20,"DP-GBC (1 release, eps=3)",0.7487587616822429,3.0
+BreastCancer,2025,20,"DP-tree (A trees, eps/A each)",0.7035229264018692,3.0
+BreastCancer,2025,20,"DP-tree (A trees, oracle depth)",0.6627044392523365,3.0
+BreastCancer,2025,20,"DP-tree (1 shared tree, eps=3)",0.8626606308411215,3.0
+BreastCancer,2026,1,"DP-GBC (1 release, eps=3)",0.71875,3.0
+BreastCancer,2026,1,"DP-tree (A trees, eps/A each)",0.8643399532710281,3.0
+BreastCancer,2026,1,"DP-tree (A trees, oracle depth)",0.8643399532710281,3.0
+BreastCancer,2026,1,"DP-tree (1 shared tree, eps=3)",0.8658732476635513,3.0
+BreastCancer,2026,2,"DP-GBC (1 release, eps=3)",0.7984448014018691,3.0
+BreastCancer,2026,2,"DP-tree (A trees, eps/A each)",0.8814252336448598,3.0
+BreastCancer,2026,2,"DP-tree (A trees, oracle depth)",0.8781396028037383,3.0
+BreastCancer,2026,2,"DP-tree (1 shared tree, eps=3)",0.8658732476635513,3.0
+BreastCancer,2026,3,"DP-GBC (1 release, eps=3)",0.8234521028037384,3.0
+BreastCancer,2026,3,"DP-tree (A trees, eps/A each)",0.8569168613707165,3.0
+BreastCancer,2026,3,"DP-tree (A trees, oracle depth)",0.8601294781931464,3.0
+BreastCancer,2026,3,"DP-tree (1 shared tree, eps=3)",0.8658732476635513,3.0
+BreastCancer,2026,5,"DP-GBC (1 release, eps=3)",0.751883761682243,3.0
+BreastCancer,2026,5,"DP-tree (A trees, eps/A each)",0.7994889018691589,3.0
+BreastCancer,2026,5,"DP-tree (A trees, oracle depth)",0.8663697429906542,3.0
+BreastCancer,2026,5,"DP-tree (1 shared tree, eps=3)",0.8658732476635513,3.0
+BreastCancer,2026,10,"DP-GBC (1 release, eps=3)",0.7518837616822429,3.0
+BreastCancer,2026,10,"DP-tree (A trees, eps/A each)",0.761952394859813,3.0
+BreastCancer,2026,10,"DP-tree (A trees, oracle depth)",0.7948160046728971,3.0
+BreastCancer,2026,10,"DP-tree (1 shared tree, eps=3)",0.8658732476635513,3.0
+BreastCancer,2026,20,"DP-GBC (1 release, eps=3)",0.7518837616822429,3.0
+BreastCancer,2026,20,"DP-tree (A trees, eps/A each)",0.6366165303738318,3.0
+BreastCancer,2026,20,"DP-tree (A trees, oracle depth)",0.6930417640186916,3.0
+BreastCancer,2026,20,"DP-tree (1 shared tree, eps=3)",0.8658732476635513,3.0
+BreastCancer,2027,1,"DP-GBC (1 release, eps=3)",0.8035192757009346,3.0
+BreastCancer,2027,1,"DP-tree (A trees, eps/A each)",0.9283002336448598,3.0
+BreastCancer,2027,1,"DP-tree (A trees, oracle depth)",0.9251606308411215,3.0
+BreastCancer,2027,1,"DP-tree (1 shared tree, eps=3)",0.9283002336448598,3.0
+BreastCancer,2027,2,"DP-GBC (1 release, eps=3)",0.8587908878504673,3.0
+BreastCancer,2027,2,"DP-tree (A trees, eps/A each)",0.9211083528037383,3.0
+BreastCancer,2027,2,"DP-tree (A trees, oracle depth)",0.9461521612149533,3.0
+BreastCancer,2027,2,"DP-tree (1 shared tree, eps=3)",0.9283002336448598,3.0
+BreastCancer,2027,3,"DP-GBC (1 release, eps=3)",0.8772147585669782,3.0
+BreastCancer,2027,3,"DP-tree (A trees, eps/A each)",0.9031590732087227,3.0
+BreastCancer,2027,3,"DP-tree (A trees, oracle depth)",0.9078319704049843,3.0
+BreastCancer,2027,3,"DP-tree (1 shared tree, eps=3)",0.9283002336448598,3.0
+BreastCancer,2027,5,"DP-GBC (1 release, eps=3)",0.8266501168224298,3.0
+BreastCancer,2027,5,"DP-tree (A trees, eps/A each)",0.8634637850467289,3.0
+BreastCancer,2027,5,"DP-tree (A trees, oracle depth)",0.8867114485981309,3.0
+BreastCancer,2027,5,"DP-tree (1 shared tree, eps=3)",0.9283002336448598,3.0
+BreastCancer,2027,10,"DP-GBC (1 release, eps=3)",0.8266501168224301,3.0
+BreastCancer,2027,10,"DP-tree (A trees, eps/A each)",0.796415011682243,3.0
+BreastCancer,2027,10,"DP-tree (A trees, oracle depth)",0.8633834696261683,3.0
+BreastCancer,2027,10,"DP-tree (1 shared tree, eps=3)",0.9283002336448598,3.0
+BreastCancer,2027,20,"DP-GBC (1 release, eps=3)",0.8266501168224301,3.0
+BreastCancer,2027,20,"DP-tree (A trees, eps/A each)",0.6179906542056074,3.0
+BreastCancer,2027,20,"DP-tree (A trees, oracle depth)",0.6995692172897197,3.0
+BreastCancer,2027,20,"DP-tree (1 shared tree, eps=3)",0.9283002336448598,3.0
+BreastCancer,2028,1,"DP-GBC (1 release, eps=3)",0.7421875,3.0
+BreastCancer,2028,1,"DP-tree (A trees, eps/A each)",0.8734667056074766,3.0
+BreastCancer,2028,1,"DP-tree (A trees, oracle depth)",0.9063230140186915,3.0
+BreastCancer,2028,1,"DP-tree (1 shared tree, eps=3)",0.8875584112149533,3.0
+BreastCancer,2028,2,"DP-GBC (1 release, eps=3)",0.8070969626168224,3.0
+BreastCancer,2028,2,"DP-tree (A trees, eps/A each)",0.846232476635514,3.0
+BreastCancer,2028,2,"DP-tree (A trees, oracle depth)",0.900043808411215,3.0
+BreastCancer,2028,2,"DP-tree (1 shared tree, eps=3)",0.8875584112149533,3.0
+BreastCancer,2028,3,"DP-GBC (1 release, eps=3)",0.8256181853582554,3.0
+BreastCancer,2028,3,"DP-tree (A trees, eps/A each)",0.8953465732087227,3.0
+BreastCancer,2028,3,"DP-tree (A trees, oracle depth)",0.8980237538940811,3.0
+BreastCancer,2028,3,"DP-tree (1 shared tree, eps=3)",0.8875584112149533,3.0
+BreastCancer,2028,5,"DP-GBC (1 release, eps=3)",0.7544392523364485,3.0
+BreastCancer,2028,5,"DP-tree (A trees, eps/A each)",0.8466705607476636,3.0
+BreastCancer,2028,5,"DP-tree (A trees, oracle depth)",0.8788405373831776,3.0
+BreastCancer,2028,5,"DP-tree (1 shared tree, eps=3)",0.8875584112149533,3.0
+BreastCancer,2028,10,"DP-GBC (1 release, eps=3)",0.7544392523364486,3.0
+BreastCancer,2028,10,"DP-tree (A trees, eps/A each)",0.782586156542056,3.0
+BreastCancer,2028,10,"DP-tree (A trees, oracle depth)",0.8018180490654204,3.0
+BreastCancer,2028,10,"DP-tree (1 shared tree, eps=3)",0.8875584112149533,3.0
+BreastCancer,2028,20,"DP-GBC (1 release, eps=3)",0.7544392523364486,3.0
+BreastCancer,2028,20,"DP-tree (A trees, eps/A each)",0.6095137266355141,3.0
+BreastCancer,2028,20,"DP-tree (A trees, oracle depth)",0.6940566588785047,3.0
+BreastCancer,2028,20,"DP-tree (1 shared tree, eps=3)",0.8875584112149533,3.0
+Ionosphere,42,1,"DP-GBC (1 release, eps=3)",0.6753095975232198,3.0
+Ionosphere,42,1,"DP-tree (A trees, eps/A each)",0.7879256965944272,3.0
+Ionosphere,42,1,"DP-tree (A trees, oracle depth)",0.806888544891641,3.0
+Ionosphere,42,1,"DP-tree (1 shared tree, eps=3)",0.8157894736842105,3.0
+Ionosphere,42,2,"DP-GBC (1 release, eps=3)",0.6534442724458205,3.0
+Ionosphere,42,2,"DP-tree (A trees, eps/A each)",0.7774767801857585,3.0
+Ionosphere,42,2,"DP-tree (A trees, oracle depth)",0.7774767801857585,3.0
+Ionosphere,42,2,"DP-tree (1 shared tree, eps=3)",0.8157894736842105,3.0
+Ionosphere,42,3,"DP-GBC (1 release, eps=3)",0.6164860681114551,3.0
+Ionosphere,42,3,"DP-tree (A trees, eps/A each)",0.7484520123839009,3.0
+Ionosphere,42,3,"DP-tree (A trees, oracle depth)",0.7251031991744066,3.0
+Ionosphere,42,3,"DP-tree (1 shared tree, eps=3)",0.8157894736842105,3.0
+Ionosphere,42,5,"DP-GBC (1 release, eps=3)",0.5787151702786378,3.0
+Ionosphere,42,5,"DP-tree (A trees, eps/A each)",0.6645510835913312,3.0
+Ionosphere,42,5,"DP-tree (A trees, oracle depth)",0.6898606811145511,3.0
+Ionosphere,42,5,"DP-tree (1 shared tree, eps=3)",0.8157894736842105,3.0
+Ionosphere,42,10,"DP-GBC (1 release, eps=3)",0.5787151702786378,3.0
+Ionosphere,42,10,"DP-tree (A trees, eps/A each)",0.5143188854489165,3.0
+Ionosphere,42,10,"DP-tree (A trees, oracle depth)",0.5993808049535604,3.0
+Ionosphere,42,10,"DP-tree (1 shared tree, eps=3)",0.8157894736842105,3.0
+Ionosphere,42,20,"DP-GBC (1 release, eps=3)",0.5787151702786378,3.0
+Ionosphere,42,20,"DP-tree (A trees, eps/A each)",0.5848103715170277,3.0
+Ionosphere,42,20,"DP-tree (A trees, oracle depth)",0.5849458204334367,3.0
+Ionosphere,42,20,"DP-tree (1 shared tree, eps=3)",0.8157894736842105,3.0
+Ionosphere,123,1,"DP-GBC (1 release, eps=3)",0.6489938080495357,3.0
+Ionosphere,123,1,"DP-tree (A trees, eps/A each)",0.7279411764705883,3.0
+Ionosphere,123,1,"DP-tree (A trees, oracle depth)",0.7921826625386997,3.0
+Ionosphere,123,1,"DP-tree (1 shared tree, eps=3)",0.8343653250773994,3.0
+Ionosphere,123,2,"DP-GBC (1 release, eps=3)",0.6050696594427245,3.0
+Ionosphere,123,2,"DP-tree (A trees, eps/A each)",0.6977554179566563,3.0
+Ionosphere,123,2,"DP-tree (A trees, oracle depth)",0.7395510835913313,3.0
+Ionosphere,123,2,"DP-tree (1 shared tree, eps=3)",0.8343653250773994,3.0
+Ionosphere,123,3,"DP-GBC (1 release, eps=3)",0.6270639834881321,3.0
+Ionosphere,123,3,"DP-tree (A trees, eps/A each)",0.6336429308565531,3.0
+Ionosphere,123,3,"DP-tree (A trees, oracle depth)",0.7386480908152735,3.0
+Ionosphere,123,3,"DP-tree (1 shared tree, eps=3)",0.8343653250773994,3.0
+Ionosphere,123,5,"DP-GBC (1 release, eps=3)",0.6308823529411766,3.0
+Ionosphere,123,5,"DP-tree (A trees, eps/A each)",0.640092879256966,3.0
+Ionosphere,123,5,"DP-tree (A trees, oracle depth)",0.6455108359133127,3.0
+Ionosphere,123,5,"DP-tree (1 shared tree, eps=3)",0.8343653250773994,3.0
+Ionosphere,123,10,"DP-GBC (1 release, eps=3)",0.6308823529411764,3.0
+Ionosphere,123,10,"DP-tree (A trees, eps/A each)",0.5893188854489164,3.0
+Ionosphere,123,10,"DP-tree (A trees, oracle depth)",0.6089396284829721,3.0
+Ionosphere,123,10,"DP-tree (1 shared tree, eps=3)",0.8343653250773994,3.0
+Ionosphere,123,20,"DP-GBC (1 release, eps=3)",0.6308823529411766,3.0
+Ionosphere,123,20,"DP-tree (A trees, eps/A each)",0.5277670278637772,3.0
+Ionosphere,123,20,"DP-tree (A trees, oracle depth)",0.560139318885449,3.0
+Ionosphere,123,20,"DP-tree (1 shared tree, eps=3)",0.8343653250773994,3.0
+Ionosphere,456,1,"DP-GBC (1 release, eps=3)",0.6958204334365325,3.0
+Ionosphere,456,1,"DP-tree (A trees, eps/A each)",0.8010835913312693,3.0
+Ionosphere,456,1,"DP-tree (A trees, oracle depth)",0.8289473684210527,3.0
+Ionosphere,456,1,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,456,2,"DP-GBC (1 release, eps=3)",0.6408668730650156,3.0
+Ionosphere,456,2,"DP-tree (A trees, eps/A each)",0.6344814241486068,3.0
+Ionosphere,456,2,"DP-tree (A trees, oracle depth)",0.7484520123839009,3.0
+Ionosphere,456,2,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,456,3,"DP-GBC (1 release, eps=3)",0.6448658410732714,3.0
+Ionosphere,456,3,"DP-tree (A trees, eps/A each)",0.7577399380804953,3.0
+Ionosphere,456,3,"DP-tree (A trees, oracle depth)",0.7105263157894736,3.0
+Ionosphere,456,3,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,456,5,"DP-GBC (1 release, eps=3)",0.6289473684210527,3.0
+Ionosphere,456,5,"DP-tree (A trees, eps/A each)",0.675077399380805,3.0
+Ionosphere,456,5,"DP-tree (A trees, oracle depth)",0.6541795665634675,3.0
+Ionosphere,456,5,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,456,10,"DP-GBC (1 release, eps=3)",0.6289473684210527,3.0
+Ionosphere,456,10,"DP-tree (A trees, eps/A each)",0.5652863777089784,3.0
+Ionosphere,456,10,"DP-tree (A trees, oracle depth)",0.6409829721362229,3.0
+Ionosphere,456,10,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,456,20,"DP-GBC (1 release, eps=3)",0.6289473684210527,3.0
+Ionosphere,456,20,"DP-tree (A trees, eps/A each)",0.5434017027863778,3.0
+Ionosphere,456,20,"DP-tree (A trees, oracle depth)",0.52937306501548,3.0
+Ionosphere,456,20,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,789,1,"DP-GBC (1 release, eps=3)",0.5897832817337462,3.0
+Ionosphere,789,1,"DP-tree (A trees, eps/A each)",0.8537151702786377,3.0
+Ionosphere,789,1,"DP-tree (A trees, oracle depth)",0.8273993808049536,3.0
+Ionosphere,789,1,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,789,2,"DP-GBC (1 release, eps=3)",0.5468266253869969,3.0
+Ionosphere,789,2,"DP-tree (A trees, eps/A each)",0.7635448916408669,3.0
+Ionosphere,789,2,"DP-tree (A trees, oracle depth)",0.8397832817337461,3.0
+Ionosphere,789,2,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,789,3,"DP-GBC (1 release, eps=3)",0.6124871001031992,3.0
+Ionosphere,789,3,"DP-tree (A trees, eps/A each)",0.6342879256965944,3.0
+Ionosphere,789,3,"DP-tree (A trees, oracle depth)",0.7732198142414862,3.0
+Ionosphere,789,3,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,789,5,"DP-GBC (1 release, eps=3)",0.5630030959752321,3.0
+Ionosphere,789,5,"DP-tree (A trees, eps/A each)",0.5923374613003096,3.0
+Ionosphere,789,5,"DP-tree (A trees, oracle depth)",0.7065015479876161,3.0
+Ionosphere,789,5,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,789,10,"DP-GBC (1 release, eps=3)",0.5630030959752321,3.0
+Ionosphere,789,10,"DP-tree (A trees, eps/A each)",0.5805340557275542,3.0
+Ionosphere,789,10,"DP-tree (A trees, oracle depth)",0.6450851393188854,3.0
+Ionosphere,789,10,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,789,20,"DP-GBC (1 release, eps=3)",0.5630030959752321,3.0
+Ionosphere,789,20,"DP-tree (A trees, eps/A each)",0.5397445820433436,3.0
+Ionosphere,789,20,"DP-tree (A trees, oracle depth)",0.5527670278637771,3.0
+Ionosphere,789,20,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,101,1,"DP-GBC (1 release, eps=3)",0.4953560371517028,3.0
+Ionosphere,101,1,"DP-tree (A trees, eps/A each)",0.80843653250774,3.0
+Ionosphere,101,1,"DP-tree (A trees, oracle depth)",0.8184984520123839,3.0
+Ionosphere,101,1,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,101,2,"DP-GBC (1 release, eps=3)",0.5537925696594427,3.0
+Ionosphere,101,2,"DP-tree (A trees, eps/A each)",0.784249226006192,3.0
+Ionosphere,101,2,"DP-tree (A trees, oracle depth)",0.8010835913312693,3.0
+Ionosphere,101,2,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,101,3,"DP-GBC (1 release, eps=3)",0.5804953560371516,3.0
+Ionosphere,101,3,"DP-tree (A trees, eps/A each)",0.5656604747162022,3.0
+Ionosphere,101,3,"DP-tree (A trees, oracle depth)",0.7572239422084625,3.0
+Ionosphere,101,3,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,101,5,"DP-GBC (1 release, eps=3)",0.5202786377708978,3.0
+Ionosphere,101,5,"DP-tree (A trees, eps/A each)",0.5764705882352941,3.0
+Ionosphere,101,5,"DP-tree (A trees, oracle depth)",0.7182662538699691,3.0
+Ionosphere,101,5,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,101,10,"DP-GBC (1 release, eps=3)",0.5202786377708978,3.0
+Ionosphere,101,10,"DP-tree (A trees, eps/A each)",0.5657894736842105,3.0
+Ionosphere,101,10,"DP-tree (A trees, oracle depth)",0.5830108359133127,3.0
+Ionosphere,101,10,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,101,20,"DP-GBC (1 release, eps=3)",0.5202786377708978,3.0
+Ionosphere,101,20,"DP-tree (A trees, eps/A each)",0.5416021671826625,3.0
+Ionosphere,101,20,"DP-tree (A trees, oracle depth)",0.5616679566563467,3.0
+Ionosphere,101,20,"DP-tree (1 shared tree, eps=3)",0.8537151702786377,3.0
+Ionosphere,2024,1,"DP-GBC (1 release, eps=3)",0.7236842105263158,3.0
+Ionosphere,2024,1,"DP-tree (A trees, eps/A each)",0.7352941176470589,3.0
+Ionosphere,2024,1,"DP-tree (A trees, oracle depth)",0.7805727554179567,3.0
+Ionosphere,2024,1,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,2024,2,"DP-GBC (1 release, eps=3)",0.6439628482972136,3.0
+Ionosphere,2024,2,"DP-tree (A trees, eps/A each)",0.7234907120743034,3.0
+Ionosphere,2024,2,"DP-tree (A trees, oracle depth)",0.7381965944272446,3.0
+Ionosphere,2024,2,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,2024,3,"DP-GBC (1 release, eps=3)",0.6938854489164087,3.0
+Ionosphere,2024,3,"DP-tree (A trees, eps/A each)",0.7251031991744066,3.0
+Ionosphere,2024,3,"DP-tree (A trees, oracle depth)",0.7143962848297214,3.0
+Ionosphere,2024,3,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,2024,5,"DP-GBC (1 release, eps=3)",0.6531733746130032,3.0
+Ionosphere,2024,5,"DP-tree (A trees, eps/A each)",0.5924922600619195,3.0
+Ionosphere,2024,5,"DP-tree (A trees, oracle depth)",0.6807275541795665,3.0
+Ionosphere,2024,5,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,2024,10,"DP-GBC (1 release, eps=3)",0.6531733746130031,3.0
+Ionosphere,2024,10,"DP-tree (A trees, eps/A each)",0.5342879256965944,3.0
+Ionosphere,2024,10,"DP-tree (A trees, oracle depth)",0.5818885448916408,3.0
+Ionosphere,2024,10,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,2024,20,"DP-GBC (1 release, eps=3)",0.6531733746130031,3.0
+Ionosphere,2024,20,"DP-tree (A trees, eps/A each)",0.525561145510836,3.0
+Ionosphere,2024,20,"DP-tree (A trees, oracle depth)",0.5677825077399381,3.0
+Ionosphere,2024,20,"DP-tree (1 shared tree, eps=3)",0.7352941176470589,3.0
+Ionosphere,2025,1,"DP-GBC (1 release, eps=3)",0.56656346749226,3.0
+Ionosphere,2025,1,"DP-tree (A trees, eps/A each)",0.7937306501547987,3.0
+Ionosphere,2025,1,"DP-tree (A trees, oracle depth)",0.8390092879256965,3.0
+Ionosphere,2025,1,"DP-tree (1 shared tree, eps=3)",0.7542569659442725,3.0
+Ionosphere,2025,2,"DP-GBC (1 release, eps=3)",0.6793730650154799,3.0
+Ionosphere,2025,2,"DP-tree (A trees, eps/A each)",0.6255804953560371,3.0
+Ionosphere,2025,2,"DP-tree (A trees, oracle depth)",0.8047600619195047,3.0
+Ionosphere,2025,2,"DP-tree (1 shared tree, eps=3)",0.7542569659442725,3.0
+Ionosphere,2025,3,"DP-GBC (1 release, eps=3)",0.6771155830753354,3.0
+Ionosphere,2025,3,"DP-tree (A trees, eps/A each)",0.6474458204334365,3.0
+Ionosphere,2025,3,"DP-tree (A trees, oracle depth)",0.7721878224974201,3.0
+Ionosphere,2025,3,"DP-tree (1 shared tree, eps=3)",0.7542569659442725,3.0
+Ionosphere,2025,5,"DP-GBC (1 release, eps=3)",0.6902476780185758,3.0
+Ionosphere,2025,5,"DP-tree (A trees, eps/A each)",0.5914086687306501,3.0
+Ionosphere,2025,5,"DP-tree (A trees, oracle depth)",0.6568111455108359,3.0
+Ionosphere,2025,5,"DP-tree (1 shared tree, eps=3)",0.7542569659442725,3.0
+Ionosphere,2025,10,"DP-GBC (1 release, eps=3)",0.6902476780185759,3.0
+Ionosphere,2025,10,"DP-tree (A trees, eps/A each)",0.5275541795665635,3.0
+Ionosphere,2025,10,"DP-tree (A trees, oracle depth)",0.5652089783281733,3.0
+Ionosphere,2025,10,"DP-tree (1 shared tree, eps=3)",0.7542569659442725,3.0
+Ionosphere,2025,20,"DP-GBC (1 release, eps=3)",0.6902476780185758,3.0
+Ionosphere,2025,20,"DP-tree (A trees, eps/A each)",0.5264125386996904,3.0
+Ionosphere,2025,20,"DP-tree (A trees, oracle depth)",0.5635642414860682,3.0
+Ionosphere,2025,20,"DP-tree (1 shared tree, eps=3)",0.7542569659442725,3.0
+Ionosphere,2026,1,"DP-GBC (1 release, eps=3)",0.5414086687306501,3.0
+Ionosphere,2026,1,"DP-tree (A trees, eps/A each)",0.7821207430340558,3.0
+Ionosphere,2026,1,"DP-tree (A trees, oracle depth)",0.8552631578947368,3.0
+Ionosphere,2026,1,"DP-tree (1 shared tree, eps=3)",0.6927244582043344,3.0
+Ionosphere,2026,2,"DP-GBC (1 release, eps=3)",0.5160603715170278,3.0
+Ionosphere,2026,2,"DP-tree (A trees, eps/A each)",0.8150154798761611,3.0
+Ionosphere,2026,2,"DP-tree (A trees, oracle depth)",0.8061145510835914,3.0
+Ionosphere,2026,2,"DP-tree (1 shared tree, eps=3)",0.6927244582043344,3.0
+Ionosphere,2026,3,"DP-GBC (1 release, eps=3)",0.5343137254901961,3.0
+Ionosphere,2026,3,"DP-tree (A trees, eps/A each)",0.6669246646026831,3.0
+Ionosphere,2026,3,"DP-tree (A trees, oracle depth)",0.7492260061919506,3.0
+Ionosphere,2026,3,"DP-tree (1 shared tree, eps=3)",0.6927244582043344,3.0
+Ionosphere,2026,5,"DP-GBC (1 release, eps=3)",0.5056501547987616,3.0
+Ionosphere,2026,5,"DP-tree (A trees, eps/A each)",0.6606037151702786,3.0
+Ionosphere,2026,5,"DP-tree (A trees, oracle depth)",0.619969040247678,3.0
+Ionosphere,2026,5,"DP-tree (1 shared tree, eps=3)",0.6927244582043344,3.0
+Ionosphere,2026,10,"DP-GBC (1 release, eps=3)",0.5056501547987616,3.0
+Ionosphere,2026,10,"DP-tree (A trees, eps/A each)",0.6089009287925696,3.0
+Ionosphere,2026,10,"DP-tree (A trees, oracle depth)",0.602438080495356,3.0
+Ionosphere,2026,10,"DP-tree (1 shared tree, eps=3)",0.6927244582043344,3.0
+Ionosphere,2026,20,"DP-GBC (1 release, eps=3)",0.5056501547987615,3.0
+Ionosphere,2026,20,"DP-tree (A trees, eps/A each)",0.550735294117647,3.0
+Ionosphere,2026,20,"DP-tree (A trees, oracle depth)",0.5394930340557276,3.0
+Ionosphere,2026,20,"DP-tree (1 shared tree, eps=3)",0.6927244582043344,3.0
+Ionosphere,2027,1,"DP-GBC (1 release, eps=3)",0.47871517027863775,3.0
+Ionosphere,2027,1,"DP-tree (A trees, eps/A each)",0.7763157894736843,3.0
+Ionosphere,2027,1,"DP-tree (A trees, oracle depth)",0.7894736842105263,3.0
+Ionosphere,2027,1,"DP-tree (1 shared tree, eps=3)",0.7732198142414861,3.0
+Ionosphere,2027,2,"DP-GBC (1 release, eps=3)",0.5754643962848297,3.0
+Ionosphere,2027,2,"DP-tree (A trees, eps/A each)",0.7892801857585139,3.0
+Ionosphere,2027,2,"DP-tree (A trees, oracle depth)",0.7623839009287926,3.0
+Ionosphere,2027,2,"DP-tree (1 shared tree, eps=3)",0.7732198142414861,3.0
+Ionosphere,2027,3,"DP-GBC (1 release, eps=3)",0.5580495356037152,3.0
+Ionosphere,2027,3,"DP-tree (A trees, eps/A each)",0.6909184726522187,3.0
+Ionosphere,2027,3,"DP-tree (A trees, oracle depth)",0.7828947368421053,3.0
+Ionosphere,2027,3,"DP-tree (1 shared tree, eps=3)",0.7732198142414861,3.0
+Ionosphere,2027,5,"DP-GBC (1 release, eps=3)",0.5791021671826625,3.0
+Ionosphere,2027,5,"DP-tree (A trees, eps/A each)",0.6260061919504645,3.0
+Ionosphere,2027,5,"DP-tree (A trees, oracle depth)",0.6461300309597523,3.0
+Ionosphere,2027,5,"DP-tree (1 shared tree, eps=3)",0.7732198142414861,3.0
+Ionosphere,2027,10,"DP-GBC (1 release, eps=3)",0.5791021671826625,3.0
+Ionosphere,2027,10,"DP-tree (A trees, eps/A each)",0.5475232198142415,3.0
+Ionosphere,2027,10,"DP-tree (A trees, oracle depth)",0.589938080495356,3.0
+Ionosphere,2027,10,"DP-tree (1 shared tree, eps=3)",0.7732198142414861,3.0
+Ionosphere,2027,20,"DP-GBC (1 release, eps=3)",0.5791021671826625,3.0
+Ionosphere,2027,20,"DP-tree (A trees, eps/A each)",0.5316950464396284,3.0
+Ionosphere,2027,20,"DP-tree (A trees, oracle depth)",0.565673374613003,3.0
+Ionosphere,2027,20,"DP-tree (1 shared tree, eps=3)",0.7732198142414861,3.0
+Ionosphere,2028,1,"DP-GBC (1 release, eps=3)",0.6958204334365325,3.0
+Ionosphere,2028,1,"DP-tree (A trees, eps/A each)",0.8347523219814241,3.0
+Ionosphere,2028,1,"DP-tree (A trees, oracle depth)",0.7952786377708978,3.0
+Ionosphere,2028,1,"DP-tree (1 shared tree, eps=3)",0.8142414860681115,3.0
+Ionosphere,2028,2,"DP-GBC (1 release, eps=3)",0.6855650154798762,3.0
+Ionosphere,2028,2,"DP-tree (A trees, eps/A each)",0.730843653250774,3.0
+Ionosphere,2028,2,"DP-tree (A trees, oracle depth)",0.7118808049535604,3.0
+Ionosphere,2028,2,"DP-tree (1 shared tree, eps=3)",0.8142414860681115,3.0
+Ionosphere,2028,3,"DP-GBC (1 release, eps=3)",0.6933694530443756,3.0
+Ionosphere,2028,3,"DP-tree (A trees, eps/A each)",0.6951754385964911,3.0
+Ionosphere,2028,3,"DP-tree (A trees, oracle depth)",0.7119453044375645,3.0
+Ionosphere,2028,3,"DP-tree (1 shared tree, eps=3)",0.8142414860681115,3.0
+Ionosphere,2028,5,"DP-GBC (1 release, eps=3)",0.6624613003095975,3.0
+Ionosphere,2028,5,"DP-tree (A trees, eps/A each)",0.6042569659442725,3.0
+Ionosphere,2028,5,"DP-tree (A trees, oracle depth)",0.5957430340557275,3.0
+Ionosphere,2028,5,"DP-tree (1 shared tree, eps=3)",0.8142414860681115,3.0
+Ionosphere,2028,10,"DP-GBC (1 release, eps=3)",0.6624613003095975,3.0
+Ionosphere,2028,10,"DP-tree (A trees, eps/A each)",0.5562306501547987,3.0
+Ionosphere,2028,10,"DP-tree (A trees, oracle depth)",0.6035216718266254,3.0
+Ionosphere,2028,10,"DP-tree (1 shared tree, eps=3)",0.8142414860681115,3.0
+Ionosphere,2028,20,"DP-GBC (1 release, eps=3)",0.6624613003095976,3.0
+Ionosphere,2028,20,"DP-tree (A trees, eps/A each)",0.5505224458204334,3.0
+Ionosphere,2028,20,"DP-tree (A trees, oracle depth)",0.5309597523219813,3.0
+Ionosphere,2028,20,"DP-tree (1 shared tree, eps=3)",0.8142414860681115,3.0
+MAGIC04,42,1,"DP-GBC (1 release, eps=3)",0.7484760616804136,3.0
+MAGIC04,42,1,"DP-tree (A trees, eps/A each)",0.7397608807774624,3.0
+MAGIC04,42,1,"DP-tree (A trees, oracle depth)",0.7417833225713439,3.0
+MAGIC04,42,1,"DP-tree (1 shared tree, eps=3)",0.7417833225713439,3.0
+MAGIC04,42,2,"DP-GBC (1 release, eps=3)",0.723896083854173,3.0
+MAGIC04,42,2,"DP-tree (A trees, eps/A each)",0.7417833225713439,3.0
+MAGIC04,42,2,"DP-tree (A trees, oracle depth)",0.7252271185890017,3.0
+MAGIC04,42,2,"DP-tree (1 shared tree, eps=3)",0.7417833225713439,3.0
+MAGIC04,42,3,"DP-GBC (1 release, eps=3)",0.7191560705065987,3.0
+MAGIC04,42,3,"DP-tree (A trees, eps/A each)",0.7403098099256679,3.0
+MAGIC04,42,3,"DP-tree (A trees, oracle depth)",0.7204116359442324,3.0
+MAGIC04,42,3,"DP-tree (1 shared tree, eps=3)",0.7417833225713439,3.0
+MAGIC04,42,5,"DP-GBC (1 release, eps=3)",0.707516335887783,3.0
+MAGIC04,42,5,"DP-tree (A trees, eps/A each)",0.7237705949958779,3.0
+MAGIC04,42,5,"DP-tree (A trees, oracle depth)",0.717888050942791,3.0
+MAGIC04,42,5,"DP-tree (1 shared tree, eps=3)",0.7417833225713439,3.0
+MAGIC04,42,10,"DP-GBC (1 release, eps=3)",0.7075163358877828,3.0
+MAGIC04,42,10,"DP-tree (A trees, eps/A each)",0.6971907146367118,3.0
+MAGIC04,42,10,"DP-tree (A trees, oracle depth)",0.7006146517379598,3.0
+MAGIC04,42,10,"DP-tree (1 shared tree, eps=3)",0.7417833225713439,3.0
+MAGIC04,42,20,"DP-GBC (1 release, eps=3)",0.7075163358877831,3.0
+MAGIC04,42,20,"DP-tree (A trees, eps/A each)",0.6671164366037599,3.0
+MAGIC04,42,20,"DP-tree (A trees, oracle depth)",0.6774306866961506,3.0
+MAGIC04,42,20,"DP-tree (1 shared tree, eps=3)",0.7417833225713439,3.0
+MAGIC04,123,1,"DP-GBC (1 release, eps=3)",0.7008837014745957,3.0
+MAGIC04,123,1,"DP-tree (A trees, eps/A each)",0.7206167229132909,3.0
+MAGIC04,123,1,"DP-tree (A trees, oracle depth)",0.7525473426008276,3.0
+MAGIC04,123,1,"DP-tree (1 shared tree, eps=3)",0.7525473426008276,3.0
+MAGIC04,123,2,"DP-GBC (1 release, eps=3)",0.6319166087955912,3.0
+MAGIC04,123,2,"DP-tree (A trees, eps/A each)",0.7058159415522444,3.0
+MAGIC04,123,2,"DP-tree (A trees, oracle depth)",0.7232544256143472,3.0
+MAGIC04,123,2,"DP-tree (1 shared tree, eps=3)",0.7525473426008276,3.0
+MAGIC04,123,3,"DP-GBC (1 release, eps=3)",0.6467921825991491,3.0
+MAGIC04,123,3,"DP-tree (A trees, eps/A each)",0.7125080038066307,3.0
+MAGIC04,123,3,"DP-tree (A trees, oracle depth)",0.7330139932937237,3.0
+MAGIC04,123,3,"DP-tree (1 shared tree, eps=3)",0.7525473426008276,3.0
+MAGIC04,123,5,"DP-GBC (1 release, eps=3)",0.6381579535163278,3.0
+MAGIC04,123,5,"DP-tree (A trees, eps/A each)",0.7223674752372714,3.0
+MAGIC04,123,5,"DP-tree (A trees, oracle depth)",0.7261950884716757,3.0
+MAGIC04,123,5,"DP-tree (1 shared tree, eps=3)",0.7525473426008276,3.0
+MAGIC04,123,10,"DP-GBC (1 release, eps=3)",0.6381579535163278,3.0
+MAGIC04,123,10,"DP-tree (A trees, eps/A each)",0.6854254234741326,3.0
+MAGIC04,123,10,"DP-tree (A trees, oracle depth)",0.681611415018864,3.0
+MAGIC04,123,10,"DP-tree (1 shared tree, eps=3)",0.7525473426008276,3.0
+MAGIC04,123,20,"DP-GBC (1 release, eps=3)",0.6381579535163278,3.0
+MAGIC04,123,20,"DP-tree (A trees, eps/A each)",0.6596891409495729,3.0
+MAGIC04,123,20,"DP-tree (A trees, oracle depth)",0.6762374257321199,3.0
+MAGIC04,123,20,"DP-tree (1 shared tree, eps=3)",0.7525473426008276,3.0
+MAGIC04,456,1,"DP-GBC (1 release, eps=3)",0.6884992913331465,3.0
+MAGIC04,456,1,"DP-tree (A trees, eps/A each)",0.7437245418032221,3.0
+MAGIC04,456,1,"DP-tree (A trees, oracle depth)",0.7293846984815442,3.0
+MAGIC04,456,1,"DP-tree (1 shared tree, eps=3)",0.708981590906322,3.0
+MAGIC04,456,2,"DP-GBC (1 release, eps=3)",0.6889673363466904,3.0
+MAGIC04,456,2,"DP-tree (A trees, eps/A each)",0.7130112452637094,3.0
+MAGIC04,456,2,"DP-tree (A trees, oracle depth)",0.7203618871250056,3.0
+MAGIC04,456,2,"DP-tree (1 shared tree, eps=3)",0.708981590906322,3.0
+MAGIC04,456,3,"DP-GBC (1 release, eps=3)",0.6947852407775166,3.0
+MAGIC04,456,3,"DP-tree (A trees, eps/A each)",0.7086553469489422,3.0
+MAGIC04,456,3,"DP-tree (A trees, oracle depth)",0.7120646639890295,3.0
+MAGIC04,456,3,"DP-tree (1 shared tree, eps=3)",0.708981590906322,3.0
+MAGIC04,456,5,"DP-GBC (1 release, eps=3)",0.6944585907073267,3.0
+MAGIC04,456,5,"DP-tree (A trees, eps/A each)",0.6987905960517713,3.0
+MAGIC04,456,5,"DP-tree (A trees, oracle depth)",0.7156739239025817,3.0
+MAGIC04,456,5,"DP-tree (1 shared tree, eps=3)",0.708981590906322,3.0
+MAGIC04,456,10,"DP-GBC (1 release, eps=3)",0.6944585907073267,3.0
+MAGIC04,456,10,"DP-tree (A trees, eps/A each)",0.6743629105292869,3.0
+MAGIC04,456,10,"DP-tree (A trees, oracle depth)",0.6901736944488439,3.0
+MAGIC04,456,10,"DP-tree (1 shared tree, eps=3)",0.708981590906322,3.0
+MAGIC04,456,20,"DP-GBC (1 release, eps=3)",0.6944585907073265,3.0
+MAGIC04,456,20,"DP-tree (A trees, eps/A each)",0.6502898630181492,3.0
+MAGIC04,456,20,"DP-tree (A trees, oracle depth)",0.6758596392906022,3.0
+MAGIC04,456,20,"DP-tree (1 shared tree, eps=3)",0.708981590906322,3.0
+MAGIC04,789,1,"DP-GBC (1 release, eps=3)",0.7063053074883141,3.0
+MAGIC04,789,1,"DP-tree (A trees, eps/A each)",0.7402705523540329,3.0
+MAGIC04,789,1,"DP-tree (A trees, oracle depth)",0.7402705523540329,3.0
+MAGIC04,789,1,"DP-tree (1 shared tree, eps=3)",0.7406319927549474,3.0
+MAGIC04,789,2,"DP-GBC (1 release, eps=3)",0.6627415863578585,3.0
+MAGIC04,789,2,"DP-tree (A trees, eps/A each)",0.7383882194796071,3.0
+MAGIC04,789,2,"DP-tree (A trees, oracle depth)",0.7361129724614903,3.0
+MAGIC04,789,2,"DP-tree (1 shared tree, eps=3)",0.7406319927549474,3.0
+MAGIC04,789,3,"DP-GBC (1 release, eps=3)",0.6798951145982665,3.0
+MAGIC04,789,3,"DP-tree (A trees, eps/A each)",0.7267429346523877,3.0
+MAGIC04,789,3,"DP-tree (A trees, oracle depth)",0.7334505645644914,3.0
+MAGIC04,789,3,"DP-tree (1 shared tree, eps=3)",0.7406319927549474,3.0
+MAGIC04,789,5,"DP-GBC (1 release, eps=3)",0.6677128132652688,3.0
+MAGIC04,789,5,"DP-tree (A trees, eps/A each)",0.7141404419319599,3.0
+MAGIC04,789,5,"DP-tree (A trees, oracle depth)",0.727320020955421,3.0
+MAGIC04,789,5,"DP-tree (1 shared tree, eps=3)",0.7406319927549474,3.0
+MAGIC04,789,10,"DP-GBC (1 release, eps=3)",0.6677128132652689,3.0
+MAGIC04,789,10,"DP-tree (A trees, eps/A each)",0.6871603373985226,3.0
+MAGIC04,789,10,"DP-tree (A trees, oracle depth)",0.7102159707923666,3.0
+MAGIC04,789,10,"DP-tree (1 shared tree, eps=3)",0.7406319927549474,3.0
+MAGIC04,789,20,"DP-GBC (1 release, eps=3)",0.6677128132652688,3.0
+MAGIC04,789,20,"DP-tree (A trees, eps/A each)",0.6764986577971628,3.0
+MAGIC04,789,20,"DP-tree (A trees, oracle depth)",0.6737525229758321,3.0
+MAGIC04,789,20,"DP-tree (1 shared tree, eps=3)",0.7406319927549474,3.0
+MAGIC04,101,1,"DP-GBC (1 release, eps=3)",0.7159139365733014,3.0
+MAGIC04,101,1,"DP-tree (A trees, eps/A each)",0.7533636293489605,3.0
+MAGIC04,101,1,"DP-tree (A trees, oracle depth)",0.7550774254072297,3.0
+MAGIC04,101,1,"DP-tree (1 shared tree, eps=3)",0.7550774254072297,3.0
+MAGIC04,101,2,"DP-GBC (1 release, eps=3)",0.724765165267608,3.0
+MAGIC04,101,2,"DP-tree (A trees, eps/A each)",0.7533372320163095,3.0
+MAGIC04,101,2,"DP-tree (A trees, oracle depth)",0.7484364656814371,3.0
+MAGIC04,101,2,"DP-tree (1 shared tree, eps=3)",0.7550774254072297,3.0
+MAGIC04,101,3,"DP-GBC (1 release, eps=3)",0.727285772108443,3.0
+MAGIC04,101,3,"DP-tree (A trees, eps/A each)",0.7267957293176899,3.0
+MAGIC04,101,3,"DP-tree (A trees, oracle depth)",0.7283741544392868,3.0
+MAGIC04,101,3,"DP-tree (1 shared tree, eps=3)",0.7550774254072297,3.0
+MAGIC04,101,5,"DP-GBC (1 release, eps=3)",0.6955737764836316,3.0
+MAGIC04,101,5,"DP-tree (A trees, eps/A each)",0.717395842217051,3.0
+MAGIC04,101,5,"DP-tree (A trees, oracle depth)",0.7270085324301384,3.0
+MAGIC04,101,5,"DP-tree (1 shared tree, eps=3)",0.7550774254072297,3.0
+MAGIC04,101,10,"DP-GBC (1 release, eps=3)",0.6955737764836316,3.0
+MAGIC04,101,10,"DP-tree (A trees, eps/A each)",0.6971170051616938,3.0
+MAGIC04,101,10,"DP-tree (A trees, oracle depth)",0.705880107376227,3.0
+MAGIC04,101,10,"DP-tree (1 shared tree, eps=3)",0.7550774254072297,3.0
+MAGIC04,101,20,"DP-GBC (1 release, eps=3)",0.6955737764836317,3.0
+MAGIC04,101,20,"DP-tree (A trees, eps/A each)",0.6502980868025521,3.0
+MAGIC04,101,20,"DP-tree (A trees, oracle depth)",0.6892028817764998,3.0
+MAGIC04,101,20,"DP-tree (1 shared tree, eps=3)",0.7550774254072297,3.0
+MAGIC04,2024,1,"DP-GBC (1 release, eps=3)",0.685806763402738,3.0
+MAGIC04,2024,1,"DP-tree (A trees, eps/A each)",0.7588664579246822,3.0
+MAGIC04,2024,1,"DP-tree (A trees, oracle depth)",0.7332143422799986,3.0
+MAGIC04,2024,1,"DP-tree (1 shared tree, eps=3)",0.758438008910115,3.0
+MAGIC04,2024,2,"DP-GBC (1 release, eps=3)",0.6775748567437063,3.0
+MAGIC04,2024,2,"DP-tree (A trees, eps/A each)",0.735483497605965,3.0
+MAGIC04,2024,2,"DP-tree (A trees, oracle depth)",0.7293390107904174,3.0
+MAGIC04,2024,2,"DP-tree (1 shared tree, eps=3)",0.758438008910115,3.0
+MAGIC04,2024,3,"DP-GBC (1 release, eps=3)",0.6836394747066175,3.0
+MAGIC04,2024,3,"DP-tree (A trees, eps/A each)",0.7108842294212486,3.0
+MAGIC04,2024,3,"DP-tree (A trees, oracle depth)",0.7278401160941153,3.0
+MAGIC04,2024,3,"DP-tree (1 shared tree, eps=3)",0.758438008910115,3.0
+MAGIC04,2024,5,"DP-GBC (1 release, eps=3)",0.652825529875689,3.0
+MAGIC04,2024,5,"DP-tree (A trees, eps/A each)",0.7192899523629673,3.0
+MAGIC04,2024,5,"DP-tree (A trees, oracle depth)",0.7395882828332054,3.0
+MAGIC04,2024,5,"DP-tree (1 shared tree, eps=3)",0.758438008910115,3.0
+MAGIC04,2024,10,"DP-GBC (1 release, eps=3)",0.6528255298756889,3.0
+MAGIC04,2024,10,"DP-tree (A trees, eps/A each)",0.6869341325633433,3.0
+MAGIC04,2024,10,"DP-tree (A trees, oracle depth)",0.6981824421187718,3.0
+MAGIC04,2024,10,"DP-tree (1 shared tree, eps=3)",0.758438008910115,3.0
+MAGIC04,2024,20,"DP-GBC (1 release, eps=3)",0.6528255298756889,3.0
+MAGIC04,2024,20,"DP-tree (A trees, eps/A each)",0.6552150976498251,3.0
+MAGIC04,2024,20,"DP-tree (A trees, oracle depth)",0.6819037147138732,3.0
+MAGIC04,2024,20,"DP-tree (1 shared tree, eps=3)",0.758438008910115,3.0
+MAGIC04,2025,1,"DP-GBC (1 release, eps=3)",0.7534956160122158,3.0
+MAGIC04,2025,1,"DP-tree (A trees, eps/A each)",0.7081531207738886,3.0
+MAGIC04,2025,1,"DP-tree (A trees, oracle depth)",0.721686830167684,3.0
+MAGIC04,2025,1,"DP-tree (1 shared tree, eps=3)",0.718809520908718,3.0
+MAGIC04,2025,2,"DP-GBC (1 release, eps=3)",0.7134660916109277,3.0
+MAGIC04,2025,2,"DP-tree (A trees, eps/A each)",0.722980299467586,3.0
+MAGIC04,2025,2,"DP-tree (A trees, oracle depth)",0.7198796281631112,3.0
+MAGIC04,2025,2,"DP-tree (1 shared tree, eps=3)",0.718809520908718,3.0
+MAGIC04,2025,3,"DP-GBC (1 release, eps=3)",0.7070518782040608,3.0
+MAGIC04,2025,3,"DP-tree (A trees, eps/A each)",0.7183235392460651,3.0
+MAGIC04,2025,3,"DP-tree (A trees, oracle depth)",0.7204542777892845,3.0
+MAGIC04,2025,3,"DP-tree (1 shared tree, eps=3)",0.718809520908718,3.0
+MAGIC04,2025,5,"DP-GBC (1 release, eps=3)",0.6930327286313591,3.0
+MAGIC04,2025,5,"DP-tree (A trees, eps/A each)",0.7092825204985441,3.0
+MAGIC04,2025,5,"DP-tree (A trees, oracle depth)",0.7113301412866467,3.0
+MAGIC04,2025,5,"DP-tree (1 shared tree, eps=3)",0.718809520908718,3.0
+MAGIC04,2025,10,"DP-GBC (1 release, eps=3)",0.6930327286313593,3.0
+MAGIC04,2025,10,"DP-tree (A trees, eps/A each)",0.6897005730251748,3.0
+MAGIC04,2025,10,"DP-tree (A trees, oracle depth)",0.7039013227094222,3.0
+MAGIC04,2025,10,"DP-tree (1 shared tree, eps=3)",0.718809520908718,3.0
+MAGIC04,2025,20,"DP-GBC (1 release, eps=3)",0.6930327286313592,3.0
+MAGIC04,2025,20,"DP-tree (A trees, eps/A each)",0.6827335047129393,3.0
+MAGIC04,2025,20,"DP-tree (A trees, oracle depth)",0.668646771200104,3.0
+MAGIC04,2025,20,"DP-tree (1 shared tree, eps=3)",0.718809520908718,3.0
+MAGIC04,2026,1,"DP-GBC (1 release, eps=3)",0.6961687317503056,3.0
+MAGIC04,2026,1,"DP-tree (A trees, eps/A each)",0.7324264834285668,3.0
+MAGIC04,2026,1,"DP-tree (A trees, oracle depth)",0.7545291731137076,3.0
+MAGIC04,2026,1,"DP-tree (1 shared tree, eps=3)",0.7545291731137076,3.0
+MAGIC04,2026,2,"DP-GBC (1 release, eps=3)",0.7001466067244159,3.0
+MAGIC04,2026,2,"DP-tree (A trees, eps/A each)",0.6887815397361079,3.0
+MAGIC04,2026,2,"DP-tree (A trees, oracle depth)",0.7488588230038541,3.0
+MAGIC04,2026,2,"DP-tree (1 shared tree, eps=3)",0.7545291731137076,3.0
+MAGIC04,2026,3,"DP-GBC (1 release, eps=3)",0.6997675681017338,3.0
+MAGIC04,2026,3,"DP-tree (A trees, eps/A each)",0.7399930419338551,3.0
+MAGIC04,2026,3,"DP-tree (A trees, oracle depth)",0.7292466201261386,3.0
+MAGIC04,2026,3,"DP-tree (1 shared tree, eps=3)",0.7545291731137076,3.0
+MAGIC04,2026,5,"DP-GBC (1 release, eps=3)",0.6699732371658198,3.0
+MAGIC04,2026,5,"DP-tree (A trees, eps/A each)",0.715554932849247,3.0
+MAGIC04,2026,5,"DP-tree (A trees, oracle depth)",0.7181288758391305,3.0
+MAGIC04,2026,5,"DP-tree (1 shared tree, eps=3)",0.7545291731137076,3.0
+MAGIC04,2026,10,"DP-GBC (1 release, eps=3)",0.6699732371658198,3.0
+MAGIC04,2026,10,"DP-tree (A trees, eps/A each)",0.6803538867026482,3.0
+MAGIC04,2026,10,"DP-tree (A trees, oracle depth)",0.7018914704126512,3.0
+MAGIC04,2026,10,"DP-tree (1 shared tree, eps=3)",0.7545291731137076,3.0
+MAGIC04,2026,20,"DP-GBC (1 release, eps=3)",0.6699732371658198,3.0
+MAGIC04,2026,20,"DP-tree (A trees, eps/A each)",0.6563381010977228,3.0
+MAGIC04,2026,20,"DP-tree (A trees, oracle depth)",0.6649961216226644,3.0
+MAGIC04,2026,20,"DP-tree (1 shared tree, eps=3)",0.7545291731137076,3.0
+MAGIC04,2027,1,"DP-GBC (1 release, eps=3)",0.7207344956281956,3.0
+MAGIC04,2027,1,"DP-tree (A trees, eps/A each)",0.7222756937422077,3.0
+MAGIC04,2027,1,"DP-tree (A trees, oracle depth)",0.7496822167261622,3.0
+MAGIC04,2027,1,"DP-tree (1 shared tree, eps=3)",0.7366805151134882,3.0
+MAGIC04,2027,2,"DP-GBC (1 release, eps=3)",0.7116060949410528,3.0
+MAGIC04,2027,2,"DP-tree (A trees, eps/A each)",0.7336762956013921,3.0
+MAGIC04,2027,2,"DP-tree (A trees, oracle depth)",0.7307644667535749,3.0
+MAGIC04,2027,2,"DP-tree (1 shared tree, eps=3)",0.7366805151134882,3.0
+MAGIC04,2027,3,"DP-GBC (1 release, eps=3)",0.7113742722120017,3.0
+MAGIC04,2027,3,"DP-tree (A trees, eps/A each)",0.7214648218315416,3.0
+MAGIC04,2027,3,"DP-tree (A trees, oracle depth)",0.7239766295614928,3.0
+MAGIC04,2027,3,"DP-tree (1 shared tree, eps=3)",0.7366805151134882,3.0
+MAGIC04,2027,5,"DP-GBC (1 release, eps=3)",0.6833148552004775,3.0
+MAGIC04,2027,5,"DP-tree (A trees, eps/A each)",0.7205647404736087,3.0
+MAGIC04,2027,5,"DP-tree (A trees, oracle depth)",0.7195933186320496,3.0
+MAGIC04,2027,5,"DP-tree (1 shared tree, eps=3)",0.7366805151134882,3.0
+MAGIC04,2027,10,"DP-GBC (1 release, eps=3)",0.6833148552004775,3.0
+MAGIC04,2027,10,"DP-tree (A trees, eps/A each)",0.6996984612385628,3.0
+MAGIC04,2027,10,"DP-tree (A trees, oracle depth)",0.7170413057339069,3.0
+MAGIC04,2027,10,"DP-tree (1 shared tree, eps=3)",0.7366805151134882,3.0
+MAGIC04,2027,20,"DP-GBC (1 release, eps=3)",0.6833148552004775,3.0
+MAGIC04,2027,20,"DP-tree (A trees, eps/A each)",0.6603038942157353,3.0
+MAGIC04,2027,20,"DP-tree (A trees, oracle depth)",0.6755467293704847,3.0
+MAGIC04,2027,20,"DP-tree (1 shared tree, eps=3)",0.7366805151134882,3.0
+MAGIC04,2028,1,"DP-GBC (1 release, eps=3)",0.7113370452044169,3.0
+MAGIC04,2028,1,"DP-tree (A trees, eps/A each)",0.744045370923135,3.0
+MAGIC04,2028,1,"DP-tree (A trees, oracle depth)",0.757916153949244,3.0
+MAGIC04,2028,1,"DP-tree (1 shared tree, eps=3)",0.7472171119693629,3.0
+MAGIC04,2028,2,"DP-GBC (1 release, eps=3)",0.6546477580542323,3.0
+MAGIC04,2028,2,"DP-tree (A trees, eps/A each)",0.7503573792728144,3.0
+MAGIC04,2028,2,"DP-tree (A trees, oracle depth)",0.7525666329593035,3.0
+MAGIC04,2028,2,"DP-tree (1 shared tree, eps=3)",0.7472171119693629,3.0
+MAGIC04,2028,3,"DP-GBC (1 release, eps=3)",0.6721965694297228,3.0
+MAGIC04,2028,3,"DP-tree (A trees, eps/A each)",0.7340076159688972,3.0
+MAGIC04,2028,3,"DP-tree (A trees, oracle depth)",0.7275023656071182,3.0
+MAGIC04,2028,3,"DP-tree (1 shared tree, eps=3)",0.7472171119693629,3.0
+MAGIC04,2028,5,"DP-GBC (1 release, eps=3)",0.6494007805488208,3.0
+MAGIC04,2028,5,"DP-tree (A trees, eps/A each)",0.7295207462728996,3.0
+MAGIC04,2028,5,"DP-tree (A trees, oracle depth)",0.7216888607317341,3.0
+MAGIC04,2028,5,"DP-tree (1 shared tree, eps=3)",0.7472171119693629,3.0
+MAGIC04,2028,10,"DP-GBC (1 release, eps=3)",0.6494007805488209,3.0
+MAGIC04,2028,10,"DP-tree (A trees, eps/A each)",0.6817450261333593,3.0
+MAGIC04,2028,10,"DP-tree (A trees, oracle depth)",0.7218963843776525,3.0
+MAGIC04,2028,10,"DP-tree (1 shared tree, eps=3)",0.7472171119693629,3.0
+MAGIC04,2028,20,"DP-GBC (1 release, eps=3)",0.6494007805488209,3.0
+MAGIC04,2028,20,"DP-tree (A trees, eps/A each)",0.6543595194873232,3.0
+MAGIC04,2028,20,"DP-tree (A trees, oracle depth)",0.6738011549848317,3.0
+MAGIC04,2028,20,"DP-tree (1 shared tree, eps=3)",0.7472171119693629,3.0
+PimaDiabetes,42,1,"DP-GBC (1 release, eps=3)",0.648641975308642,3.0
+PimaDiabetes,42,1,"DP-tree (A trees, eps/A each)",0.6271604938271604,3.0
+PimaDiabetes,42,1,"DP-tree (A trees, oracle depth)",0.6338271604938271,3.0
+PimaDiabetes,42,1,"DP-tree (1 shared tree, eps=3)",0.6697530864197532,3.0
+PimaDiabetes,42,2,"DP-GBC (1 release, eps=3)",0.6154938271604938,3.0
+PimaDiabetes,42,2,"DP-tree (A trees, eps/A each)",0.6380864197530864,3.0
+PimaDiabetes,42,2,"DP-tree (A trees, oracle depth)",0.6491975308641975,3.0
+PimaDiabetes,42,2,"DP-tree (1 shared tree, eps=3)",0.6697530864197532,3.0
+PimaDiabetes,42,3,"DP-GBC (1 release, eps=3)",0.6013168724279835,3.0
+PimaDiabetes,42,3,"DP-tree (A trees, eps/A each)",0.5980658436213991,3.0
+PimaDiabetes,42,3,"DP-tree (A trees, oracle depth)",0.6534979423868313,3.0
+PimaDiabetes,42,3,"DP-tree (1 shared tree, eps=3)",0.6697530864197532,3.0
+PimaDiabetes,42,5,"DP-GBC (1 release, eps=3)",0.586716049382716,3.0
+PimaDiabetes,42,5,"DP-tree (A trees, eps/A each)",0.5679506172839506,3.0
+PimaDiabetes,42,5,"DP-tree (A trees, oracle depth)",0.6509135802469136,3.0
+PimaDiabetes,42,5,"DP-tree (1 shared tree, eps=3)",0.6697530864197532,3.0
+PimaDiabetes,42,10,"DP-GBC (1 release, eps=3)",0.5867160493827159,3.0
+PimaDiabetes,42,10,"DP-tree (A trees, eps/A each)",0.5534567901234568,3.0
+PimaDiabetes,42,10,"DP-tree (A trees, oracle depth)",0.5674074074074074,3.0
+PimaDiabetes,42,10,"DP-tree (1 shared tree, eps=3)",0.6697530864197532,3.0
+PimaDiabetes,42,20,"DP-GBC (1 release, eps=3)",0.5867160493827159,3.0
+PimaDiabetes,42,20,"DP-tree (A trees, eps/A each)",0.5549259259259258,3.0
+PimaDiabetes,42,20,"DP-tree (A trees, oracle depth)",0.5482962962962964,3.0
+PimaDiabetes,42,20,"DP-tree (1 shared tree, eps=3)",0.6697530864197532,3.0
+PimaDiabetes,123,1,"DP-GBC (1 release, eps=3)",0.5620987654320988,3.0
+PimaDiabetes,123,1,"DP-tree (A trees, eps/A each)",0.6091358024691358,3.0
+PimaDiabetes,123,1,"DP-tree (A trees, oracle depth)",0.667037037037037,3.0
+PimaDiabetes,123,1,"DP-tree (1 shared tree, eps=3)",0.6153086419753087,3.0
+PimaDiabetes,123,2,"DP-GBC (1 release, eps=3)",0.6282716049382716,3.0
+PimaDiabetes,123,2,"DP-tree (A trees, eps/A each)",0.6119753086419752,3.0
+PimaDiabetes,123,2,"DP-tree (A trees, oracle depth)",0.6153086419753087,3.0
+PimaDiabetes,123,2,"DP-tree (1 shared tree, eps=3)",0.6153086419753087,3.0
+PimaDiabetes,123,3,"DP-GBC (1 release, eps=3)",0.638888888888889,3.0
+PimaDiabetes,123,3,"DP-tree (A trees, eps/A each)",0.615925925925926,3.0
+PimaDiabetes,123,3,"DP-tree (A trees, oracle depth)",0.6484773662551441,3.0
+PimaDiabetes,123,3,"DP-tree (1 shared tree, eps=3)",0.6153086419753087,3.0
+PimaDiabetes,123,5,"DP-GBC (1 release, eps=3)",0.626,3.0
+PimaDiabetes,123,5,"DP-tree (A trees, eps/A each)",0.6062469135802468,3.0
+PimaDiabetes,123,5,"DP-tree (A trees, oracle depth)",0.6330370370370371,3.0
+PimaDiabetes,123,5,"DP-tree (1 shared tree, eps=3)",0.6153086419753087,3.0
+PimaDiabetes,123,10,"DP-GBC (1 release, eps=3)",0.6260000000000001,3.0
+PimaDiabetes,123,10,"DP-tree (A trees, eps/A each)",0.5424691358024691,3.0
+PimaDiabetes,123,10,"DP-tree (A trees, oracle depth)",0.5902962962962963,3.0
+PimaDiabetes,123,10,"DP-tree (1 shared tree, eps=3)",0.6153086419753087,3.0
+PimaDiabetes,123,20,"DP-GBC (1 release, eps=3)",0.6260000000000001,3.0
+PimaDiabetes,123,20,"DP-tree (A trees, eps/A each)",0.5184506172839506,3.0
+PimaDiabetes,123,20,"DP-tree (A trees, oracle depth)",0.5588333333333334,3.0
+PimaDiabetes,123,20,"DP-tree (1 shared tree, eps=3)",0.6153086419753087,3.0
+PimaDiabetes,456,1,"DP-GBC (1 release, eps=3)",0.711358024691358,3.0
+PimaDiabetes,456,1,"DP-tree (A trees, eps/A each)",0.7154320987654321,3.0
+PimaDiabetes,456,1,"DP-tree (A trees, oracle depth)",0.6960493827160493,3.0
+PimaDiabetes,456,1,"DP-tree (1 shared tree, eps=3)",0.721604938271605,3.0
+PimaDiabetes,456,2,"DP-GBC (1 release, eps=3)",0.6795061728395062,3.0
+PimaDiabetes,456,2,"DP-tree (A trees, eps/A each)",0.6959876543209876,3.0
+PimaDiabetes,456,2,"DP-tree (A trees, oracle depth)",0.7201851851851852,3.0
+PimaDiabetes,456,2,"DP-tree (1 shared tree, eps=3)",0.721604938271605,3.0
+PimaDiabetes,456,3,"DP-GBC (1 release, eps=3)",0.6709053497942387,3.0
+PimaDiabetes,456,3,"DP-tree (A trees, eps/A each)",0.6432098765432098,3.0
+PimaDiabetes,456,3,"DP-tree (A trees, oracle depth)",0.6960493827160493,3.0
+PimaDiabetes,456,3,"DP-tree (1 shared tree, eps=3)",0.721604938271605,3.0
+PimaDiabetes,456,5,"DP-GBC (1 release, eps=3)",0.6338765432098765,3.0
+PimaDiabetes,456,5,"DP-tree (A trees, eps/A each)",0.5799012345679013,3.0
+PimaDiabetes,456,5,"DP-tree (A trees, oracle depth)",0.705925925925926,3.0
+PimaDiabetes,456,5,"DP-tree (1 shared tree, eps=3)",0.721604938271605,3.0
+PimaDiabetes,456,10,"DP-GBC (1 release, eps=3)",0.6338765432098764,3.0
+PimaDiabetes,456,10,"DP-tree (A trees, eps/A each)",0.5391358024691358,3.0
+PimaDiabetes,456,10,"DP-tree (A trees, oracle depth)",0.607358024691358,3.0
+PimaDiabetes,456,10,"DP-tree (1 shared tree, eps=3)",0.721604938271605,3.0
+PimaDiabetes,456,20,"DP-GBC (1 release, eps=3)",0.6338765432098765,3.0
+PimaDiabetes,456,20,"DP-tree (A trees, eps/A each)",0.5539135802469135,3.0
+PimaDiabetes,456,20,"DP-tree (A trees, oracle depth)",0.5371296296296296,3.0
+PimaDiabetes,456,20,"DP-tree (1 shared tree, eps=3)",0.721604938271605,3.0
+PimaDiabetes,789,1,"DP-GBC (1 release, eps=3)",0.6917283950617283,3.0
+PimaDiabetes,789,1,"DP-tree (A trees, eps/A each)",0.6685185185185185,3.0
+PimaDiabetes,789,1,"DP-tree (A trees, oracle depth)",0.6788888888888889,3.0
+PimaDiabetes,789,1,"DP-tree (1 shared tree, eps=3)",0.6651851851851851,3.0
+PimaDiabetes,789,2,"DP-GBC (1 release, eps=3)",0.6566049382716049,3.0
+PimaDiabetes,789,2,"DP-tree (A trees, eps/A each)",0.6819753086419753,3.0
+PimaDiabetes,789,2,"DP-tree (A trees, oracle depth)",0.6968518518518518,3.0
+PimaDiabetes,789,2,"DP-tree (1 shared tree, eps=3)",0.6651851851851851,3.0
+PimaDiabetes,789,3,"DP-GBC (1 release, eps=3)",0.6708230452674897,3.0
+PimaDiabetes,789,3,"DP-tree (A trees, eps/A each)",0.6872016460905349,3.0
+PimaDiabetes,789,3,"DP-tree (A trees, oracle depth)",0.6462962962962963,3.0
+PimaDiabetes,789,3,"DP-tree (1 shared tree, eps=3)",0.6651851851851851,3.0
+PimaDiabetes,789,5,"DP-GBC (1 release, eps=3)",0.6567654320987654,3.0
+PimaDiabetes,789,5,"DP-tree (A trees, eps/A each)",0.6422962962962963,3.0
+PimaDiabetes,789,5,"DP-tree (A trees, oracle depth)",0.6229135802469136,3.0
+PimaDiabetes,789,5,"DP-tree (1 shared tree, eps=3)",0.6651851851851851,3.0
+PimaDiabetes,789,10,"DP-GBC (1 release, eps=3)",0.6567654320987654,3.0
+PimaDiabetes,789,10,"DP-tree (A trees, eps/A each)",0.595604938271605,3.0
+PimaDiabetes,789,10,"DP-tree (A trees, oracle depth)",0.5849012345679012,3.0
+PimaDiabetes,789,10,"DP-tree (1 shared tree, eps=3)",0.6651851851851851,3.0
+PimaDiabetes,789,20,"DP-GBC (1 release, eps=3)",0.6567654320987654,3.0
+PimaDiabetes,789,20,"DP-tree (A trees, eps/A each)",0.534111111111111,3.0
+PimaDiabetes,789,20,"DP-tree (A trees, oracle depth)",0.5582160493827161,3.0
+PimaDiabetes,789,20,"DP-tree (1 shared tree, eps=3)",0.6651851851851851,3.0
+PimaDiabetes,101,1,"DP-GBC (1 release, eps=3)",0.5606172839506173,3.0
+PimaDiabetes,101,1,"DP-tree (A trees, eps/A each)",0.6528395061728395,3.0
+PimaDiabetes,101,1,"DP-tree (A trees, oracle depth)",0.6830864197530864,3.0
+PimaDiabetes,101,1,"DP-tree (1 shared tree, eps=3)",0.6523456790123456,3.0
+PimaDiabetes,101,2,"DP-GBC (1 release, eps=3)",0.6280246913580247,3.0
+PimaDiabetes,101,2,"DP-tree (A trees, eps/A each)",0.6687037037037037,3.0
+PimaDiabetes,101,2,"DP-tree (A trees, oracle depth)",0.6528395061728395,3.0
+PimaDiabetes,101,2,"DP-tree (1 shared tree, eps=3)",0.6523456790123456,3.0
+PimaDiabetes,101,3,"DP-GBC (1 release, eps=3)",0.6343209876543211,3.0
+PimaDiabetes,101,3,"DP-tree (A trees, eps/A each)",0.6573251028806585,3.0
+PimaDiabetes,101,3,"DP-tree (A trees, oracle depth)",0.6730041152263374,3.0
+PimaDiabetes,101,3,"DP-tree (1 shared tree, eps=3)",0.6523456790123456,3.0
+PimaDiabetes,101,5,"DP-GBC (1 release, eps=3)",0.6286913580246913,3.0
+PimaDiabetes,101,5,"DP-tree (A trees, eps/A each)",0.5720246913580247,3.0
+PimaDiabetes,101,5,"DP-tree (A trees, oracle depth)",0.5958765432098765,3.0
+PimaDiabetes,101,5,"DP-tree (1 shared tree, eps=3)",0.6523456790123456,3.0
+PimaDiabetes,101,10,"DP-GBC (1 release, eps=3)",0.6286913580246913,3.0
+PimaDiabetes,101,10,"DP-tree (A trees, eps/A each)",0.564641975308642,3.0
+PimaDiabetes,101,10,"DP-tree (A trees, oracle depth)",0.5751604938271605,3.0
+PimaDiabetes,101,10,"DP-tree (1 shared tree, eps=3)",0.6523456790123456,3.0
+PimaDiabetes,101,20,"DP-GBC (1 release, eps=3)",0.6286913580246913,3.0
+PimaDiabetes,101,20,"DP-tree (A trees, eps/A each)",0.5541172839506172,3.0
+PimaDiabetes,101,20,"DP-tree (A trees, oracle depth)",0.5382407407407407,3.0
+PimaDiabetes,101,20,"DP-tree (1 shared tree, eps=3)",0.6523456790123456,3.0
+PimaDiabetes,2024,1,"DP-GBC (1 release, eps=3)",0.6282716049382716,3.0
+PimaDiabetes,2024,1,"DP-tree (A trees, eps/A each)",0.6607407407407407,3.0
+PimaDiabetes,2024,1,"DP-tree (A trees, oracle depth)",0.7007407407407408,3.0
+PimaDiabetes,2024,1,"DP-tree (1 shared tree, eps=3)",0.6792592592592592,3.0
+PimaDiabetes,2024,2,"DP-GBC (1 release, eps=3)",0.6459876543209877,3.0
+PimaDiabetes,2024,2,"DP-tree (A trees, eps/A each)",0.6708641975308642,3.0
+PimaDiabetes,2024,2,"DP-tree (A trees, oracle depth)",0.6849382716049383,3.0
+PimaDiabetes,2024,2,"DP-tree (1 shared tree, eps=3)",0.6792592592592592,3.0
+PimaDiabetes,2024,3,"DP-GBC (1 release, eps=3)",0.6406172839506173,3.0
+PimaDiabetes,2024,3,"DP-tree (A trees, eps/A each)",0.6721399176954733,3.0
+PimaDiabetes,2024,3,"DP-tree (A trees, oracle depth)",0.6813580246913581,3.0
+PimaDiabetes,2024,3,"DP-tree (1 shared tree, eps=3)",0.6792592592592592,3.0
+PimaDiabetes,2024,5,"DP-GBC (1 release, eps=3)",0.634716049382716,3.0
+PimaDiabetes,2024,5,"DP-tree (A trees, eps/A each)",0.5650617283950616,3.0
+PimaDiabetes,2024,5,"DP-tree (A trees, oracle depth)",0.669358024691358,3.0
+PimaDiabetes,2024,5,"DP-tree (1 shared tree, eps=3)",0.6792592592592592,3.0
+PimaDiabetes,2024,10,"DP-GBC (1 release, eps=3)",0.6347160493827161,3.0
+PimaDiabetes,2024,10,"DP-tree (A trees, eps/A each)",0.5644074074074075,3.0
+PimaDiabetes,2024,10,"DP-tree (A trees, oracle depth)",0.5651851851851852,3.0
+PimaDiabetes,2024,10,"DP-tree (1 shared tree, eps=3)",0.6792592592592592,3.0
+PimaDiabetes,2024,20,"DP-GBC (1 release, eps=3)",0.634716049382716,3.0
+PimaDiabetes,2024,20,"DP-tree (A trees, eps/A each)",0.547320987654321,3.0
+PimaDiabetes,2024,20,"DP-tree (A trees, oracle depth)",0.5585864197530864,3.0
+PimaDiabetes,2024,20,"DP-tree (1 shared tree, eps=3)",0.6792592592592592,3.0
+PimaDiabetes,2025,1,"DP-GBC (1 release, eps=3)",0.7225925925925927,3.0
+PimaDiabetes,2025,1,"DP-tree (A trees, eps/A each)",0.7086419753086419,3.0
+PimaDiabetes,2025,1,"DP-tree (A trees, oracle depth)",0.6837037037037037,3.0
+PimaDiabetes,2025,1,"DP-tree (1 shared tree, eps=3)",0.6837037037037037,3.0
+PimaDiabetes,2025,2,"DP-GBC (1 release, eps=3)",0.6926543209876543,3.0
+PimaDiabetes,2025,2,"DP-tree (A trees, eps/A each)",0.6947530864197531,3.0
+PimaDiabetes,2025,2,"DP-tree (A trees, oracle depth)",0.7077777777777778,3.0
+PimaDiabetes,2025,2,"DP-tree (1 shared tree, eps=3)",0.6837037037037037,3.0
+PimaDiabetes,2025,3,"DP-GBC (1 release, eps=3)",0.6875720164609054,3.0
+PimaDiabetes,2025,3,"DP-tree (A trees, eps/A each)",0.6176543209876543,3.0
+PimaDiabetes,2025,3,"DP-tree (A trees, oracle depth)",0.7003292181069959,3.0
+PimaDiabetes,2025,3,"DP-tree (1 shared tree, eps=3)",0.6837037037037037,3.0
+PimaDiabetes,2025,5,"DP-GBC (1 release, eps=3)",0.6868395061728394,3.0
+PimaDiabetes,2025,5,"DP-tree (A trees, eps/A each)",0.5785679012345679,3.0
+PimaDiabetes,2025,5,"DP-tree (A trees, oracle depth)",0.6301728395061729,3.0
+PimaDiabetes,2025,5,"DP-tree (1 shared tree, eps=3)",0.6837037037037037,3.0
+PimaDiabetes,2025,10,"DP-GBC (1 release, eps=3)",0.6868395061728394,3.0
+PimaDiabetes,2025,10,"DP-tree (A trees, eps/A each)",0.511,3.0
+PimaDiabetes,2025,10,"DP-tree (A trees, oracle depth)",0.5929259259259261,3.0
+PimaDiabetes,2025,10,"DP-tree (1 shared tree, eps=3)",0.6837037037037037,3.0
+PimaDiabetes,2025,20,"DP-GBC (1 release, eps=3)",0.6868395061728395,3.0
+PimaDiabetes,2025,20,"DP-tree (A trees, eps/A each)",0.5447160493827161,3.0
+PimaDiabetes,2025,20,"DP-tree (A trees, oracle depth)",0.5413827160493827,3.0
+PimaDiabetes,2025,20,"DP-tree (1 shared tree, eps=3)",0.6837037037037037,3.0
+PimaDiabetes,2026,1,"DP-GBC (1 release, eps=3)",0.5079012345679013,3.0
+PimaDiabetes,2026,1,"DP-tree (A trees, eps/A each)",0.6376543209876543,3.0
+PimaDiabetes,2026,1,"DP-tree (A trees, oracle depth)",0.6376543209876543,3.0
+PimaDiabetes,2026,1,"DP-tree (1 shared tree, eps=3)",0.6376543209876543,3.0
+PimaDiabetes,2026,2,"DP-GBC (1 release, eps=3)",0.5284567901234568,3.0
+PimaDiabetes,2026,2,"DP-tree (A trees, eps/A each)",0.6397530864197531,3.0
+PimaDiabetes,2026,2,"DP-tree (A trees, oracle depth)",0.6683333333333333,3.0
+PimaDiabetes,2026,2,"DP-tree (1 shared tree, eps=3)",0.6376543209876543,3.0
+PimaDiabetes,2026,3,"DP-GBC (1 release, eps=3)",0.5255555555555556,3.0
+PimaDiabetes,2026,3,"DP-tree (A trees, eps/A each)",0.6303703703703704,3.0
+PimaDiabetes,2026,3,"DP-tree (A trees, oracle depth)",0.6485185185185185,3.0
+PimaDiabetes,2026,3,"DP-tree (1 shared tree, eps=3)",0.6376543209876543,3.0
+PimaDiabetes,2026,5,"DP-GBC (1 release, eps=3)",0.5584938271604938,3.0
+PimaDiabetes,2026,5,"DP-tree (A trees, eps/A each)",0.5878765432098765,3.0
+PimaDiabetes,2026,5,"DP-tree (A trees, oracle depth)",0.6463456790123457,3.0
+PimaDiabetes,2026,5,"DP-tree (1 shared tree, eps=3)",0.6376543209876543,3.0
+PimaDiabetes,2026,10,"DP-GBC (1 release, eps=3)",0.5584938271604939,3.0
+PimaDiabetes,2026,10,"DP-tree (A trees, eps/A each)",0.5383086419753086,3.0
+PimaDiabetes,2026,10,"DP-tree (A trees, oracle depth)",0.5528395061728395,3.0
+PimaDiabetes,2026,10,"DP-tree (1 shared tree, eps=3)",0.6376543209876543,3.0
+PimaDiabetes,2026,20,"DP-GBC (1 release, eps=3)",0.5584938271604938,3.0
+PimaDiabetes,2026,20,"DP-tree (A trees, eps/A each)",0.5338024691358024,3.0
+PimaDiabetes,2026,20,"DP-tree (A trees, oracle depth)",0.5424135802469137,3.0
+PimaDiabetes,2026,20,"DP-tree (1 shared tree, eps=3)",0.6376543209876543,3.0
+PimaDiabetes,2027,1,"DP-GBC (1 release, eps=3)",0.6361728395061729,3.0
+PimaDiabetes,2027,1,"DP-tree (A trees, eps/A each)",0.6438271604938272,3.0
+PimaDiabetes,2027,1,"DP-tree (A trees, oracle depth)",0.6714814814814816,3.0
+PimaDiabetes,2027,1,"DP-tree (1 shared tree, eps=3)",0.6251851851851852,3.0
+PimaDiabetes,2027,2,"DP-GBC (1 release, eps=3)",0.6401851851851852,3.0
+PimaDiabetes,2027,2,"DP-tree (A trees, eps/A each)",0.6376543209876544,3.0
+PimaDiabetes,2027,2,"DP-tree (A trees, oracle depth)",0.6535185185185185,3.0
+PimaDiabetes,2027,2,"DP-tree (1 shared tree, eps=3)",0.6251851851851852,3.0
+PimaDiabetes,2027,3,"DP-GBC (1 release, eps=3)",0.6324691358024691,3.0
+PimaDiabetes,2027,3,"DP-tree (A trees, eps/A each)",0.6419753086419754,3.0
+PimaDiabetes,2027,3,"DP-tree (A trees, oracle depth)",0.6794650205761318,3.0
+PimaDiabetes,2027,3,"DP-tree (1 shared tree, eps=3)",0.6251851851851852,3.0
+PimaDiabetes,2027,5,"DP-GBC (1 release, eps=3)",0.6140987654320987,3.0
+PimaDiabetes,2027,5,"DP-tree (A trees, eps/A each)",0.5854567901234567,3.0
+PimaDiabetes,2027,5,"DP-tree (A trees, oracle depth)",0.6590617283950617,3.0
+PimaDiabetes,2027,5,"DP-tree (1 shared tree, eps=3)",0.6251851851851852,3.0
+PimaDiabetes,2027,10,"DP-GBC (1 release, eps=3)",0.6140987654320986,3.0
+PimaDiabetes,2027,10,"DP-tree (A trees, eps/A each)",0.5724320987654321,3.0
+PimaDiabetes,2027,10,"DP-tree (A trees, oracle depth)",0.5592592592592593,3.0
+PimaDiabetes,2027,10,"DP-tree (1 shared tree, eps=3)",0.6251851851851852,3.0
+PimaDiabetes,2027,20,"DP-GBC (1 release, eps=3)",0.6140987654320987,3.0
+PimaDiabetes,2027,20,"DP-tree (A trees, eps/A each)",0.5675493827160494,3.0
+PimaDiabetes,2027,20,"DP-tree (A trees, oracle depth)",0.5451049382716049,3.0
+PimaDiabetes,2027,20,"DP-tree (1 shared tree, eps=3)",0.6251851851851852,3.0
+PimaDiabetes,2028,1,"DP-GBC (1 release, eps=3)",0.7246913580246913,3.0
+PimaDiabetes,2028,1,"DP-tree (A trees, eps/A each)",0.6741975308641975,3.0
+PimaDiabetes,2028,1,"DP-tree (A trees, oracle depth)",0.6865432098765432,3.0
+PimaDiabetes,2028,1,"DP-tree (1 shared tree, eps=3)",0.6708641975308642,3.0
+PimaDiabetes,2028,2,"DP-GBC (1 release, eps=3)",0.6953703703703704,3.0
+PimaDiabetes,2028,2,"DP-tree (A trees, eps/A each)",0.6098148148148148,3.0
+PimaDiabetes,2028,2,"DP-tree (A trees, oracle depth)",0.6995061728395061,3.0
+PimaDiabetes,2028,2,"DP-tree (1 shared tree, eps=3)",0.6708641975308642,3.0
+PimaDiabetes,2028,3,"DP-GBC (1 release, eps=3)",0.6825514403292181,3.0
+PimaDiabetes,2028,3,"DP-tree (A trees, eps/A each)",0.5080658436213992,3.0
+PimaDiabetes,2028,3,"DP-tree (A trees, oracle depth)",0.7038271604938271,3.0
+PimaDiabetes,2028,3,"DP-tree (1 shared tree, eps=3)",0.6708641975308642,3.0
+PimaDiabetes,2028,5,"DP-GBC (1 release, eps=3)",0.6969135802469136,3.0
+PimaDiabetes,2028,5,"DP-tree (A trees, eps/A each)",0.6204444444444445,3.0
+PimaDiabetes,2028,5,"DP-tree (A trees, oracle depth)",0.6061975308641975,3.0
+PimaDiabetes,2028,5,"DP-tree (1 shared tree, eps=3)",0.6708641975308642,3.0
+PimaDiabetes,2028,10,"DP-GBC (1 release, eps=3)",0.6969135802469135,3.0
+PimaDiabetes,2028,10,"DP-tree (A trees, eps/A each)",0.5619259259259258,3.0
+PimaDiabetes,2028,10,"DP-tree (A trees, oracle depth)",0.6004567901234568,3.0
+PimaDiabetes,2028,10,"DP-tree (1 shared tree, eps=3)",0.6708641975308642,3.0
+PimaDiabetes,2028,20,"DP-GBC (1 release, eps=3)",0.6969135802469136,3.0
+PimaDiabetes,2028,20,"DP-tree (A trees, eps/A each)",0.5705246913580247,3.0
+PimaDiabetes,2028,20,"DP-tree (A trees, oracle depth)",0.538537037037037,3.0
+PimaDiabetes,2028,20,"DP-tree (1 shared tree, eps=3)",0.6708641975308642,3.0
+Sonar,42,1,"DP-GBC (1 release, eps=3)",0.5192697768762677,3.0
+Sonar,42,1,"DP-tree (A trees, eps/A each)",0.5157200811359026,3.0
+Sonar,42,1,"DP-tree (A trees, oracle depth)",0.5841784989858012,3.0
+Sonar,42,1,"DP-tree (1 shared tree, eps=3)",0.657707910750507,3.0
+Sonar,42,2,"DP-GBC (1 release, eps=3)",0.5712474645030425,3.0
+Sonar,42,2,"DP-tree (A trees, eps/A each)",0.4956896551724138,3.0
+Sonar,42,2,"DP-tree (A trees, oracle depth)",0.6222109533468559,3.0
+Sonar,42,2,"DP-tree (1 shared tree, eps=3)",0.657707910750507,3.0
+Sonar,42,3,"DP-GBC (1 release, eps=3)",0.5698106828938472,3.0
+Sonar,42,3,"DP-tree (A trees, eps/A each)",0.543103448275862,3.0
+Sonar,42,3,"DP-tree (A trees, oracle depth)",0.5473292765382015,3.0
+Sonar,42,3,"DP-tree (1 shared tree, eps=3)",0.657707910750507,3.0
+Sonar,42,5,"DP-GBC (1 release, eps=3)",0.5634888438133874,3.0
+Sonar,42,5,"DP-tree (A trees, eps/A each)",0.5893509127789047,3.0
+Sonar,42,5,"DP-tree (A trees, oracle depth)",0.6171399594320487,3.0
+Sonar,42,5,"DP-tree (1 shared tree, eps=3)",0.657707910750507,3.0
+Sonar,42,10,"DP-GBC (1 release, eps=3)",0.5634888438133874,3.0
+Sonar,42,10,"DP-tree (A trees, eps/A each)",0.5022312373225152,3.0
+Sonar,42,10,"DP-tree (A trees, oracle depth)",0.5182555780933064,3.0
+Sonar,42,10,"DP-tree (1 shared tree, eps=3)",0.657707910750507,3.0
+Sonar,42,20,"DP-GBC (1 release, eps=3)",0.5634888438133874,3.0
+Sonar,42,20,"DP-tree (A trees, eps/A each)",0.5066937119675458,3.0
+Sonar,42,20,"DP-tree (A trees, oracle depth)",0.5119168356997972,3.0
+Sonar,42,20,"DP-tree (1 shared tree, eps=3)",0.657707910750507,3.0
+Sonar,123,1,"DP-GBC (1 release, eps=3)",0.5035496957403651,3.0
+Sonar,123,1,"DP-tree (A trees, eps/A each)",0.648580121703854,3.0
+Sonar,123,1,"DP-tree (A trees, oracle depth)",0.6901622718052738,3.0
+Sonar,123,1,"DP-tree (1 shared tree, eps=3)",0.6901622718052738,3.0
+Sonar,123,2,"DP-GBC (1 release, eps=3)",0.4921399594320487,3.0
+Sonar,123,2,"DP-tree (A trees, eps/A each)",0.5301724137931034,3.0
+Sonar,123,2,"DP-tree (A trees, oracle depth)",0.6374239350912778,3.0
+Sonar,123,2,"DP-tree (1 shared tree, eps=3)",0.6901622718052738,3.0
+Sonar,123,3,"DP-GBC (1 release, eps=3)",0.5211291413116971,3.0
+Sonar,123,3,"DP-tree (A trees, eps/A each)",0.5772481406355646,3.0
+Sonar,123,3,"DP-tree (A trees, oracle depth)",0.6274509803921569,3.0
+Sonar,123,3,"DP-tree (1 shared tree, eps=3)",0.6901622718052738,3.0
+Sonar,123,5,"DP-GBC (1 release, eps=3)",0.516734279918864,3.0
+Sonar,123,5,"DP-tree (A trees, eps/A each)",0.5448275862068964,3.0
+Sonar,123,5,"DP-tree (A trees, oracle depth)",0.602839756592292,3.0
+Sonar,123,5,"DP-tree (1 shared tree, eps=3)",0.6901622718052738,3.0
+Sonar,123,10,"DP-GBC (1 release, eps=3)",0.516734279918864,3.0
+Sonar,123,10,"DP-tree (A trees, eps/A each)",0.49989858012170385,3.0
+Sonar,123,10,"DP-tree (A trees, oracle depth)",0.5516734279918863,3.0
+Sonar,123,10,"DP-tree (1 shared tree, eps=3)",0.6901622718052738,3.0
+Sonar,123,20,"DP-GBC (1 release, eps=3)",0.5167342799188641,3.0
+Sonar,123,20,"DP-tree (A trees, eps/A each)",0.5078853955375255,3.0
+Sonar,123,20,"DP-tree (A trees, oracle depth)",0.5141227180527383,3.0
+Sonar,123,20,"DP-tree (1 shared tree, eps=3)",0.6901622718052738,3.0
+Sonar,456,1,"DP-GBC (1 release, eps=3)",0.5314401622718052,3.0
+Sonar,456,1,"DP-tree (A trees, eps/A each)",0.6881338742393509,3.0
+Sonar,456,1,"DP-tree (A trees, oracle depth)",0.7195740365111561,3.0
+Sonar,456,1,"DP-tree (1 shared tree, eps=3)",0.6881338742393509,3.0
+Sonar,456,2,"DP-GBC (1 release, eps=3)",0.5157200811359026,3.0
+Sonar,456,2,"DP-tree (A trees, eps/A each)",0.5063387423935091,3.0
+Sonar,456,2,"DP-tree (A trees, oracle depth)",0.670892494929006,3.0
+Sonar,456,2,"DP-tree (1 shared tree, eps=3)",0.6881338742393509,3.0
+Sonar,456,3,"DP-GBC (1 release, eps=3)",0.495605138607167,3.0
+Sonar,456,3,"DP-tree (A trees, eps/A each)",0.5219743069641649,3.0
+Sonar,456,3,"DP-tree (A trees, oracle depth)",0.727180527383367,3.0
+Sonar,456,3,"DP-tree (1 shared tree, eps=3)",0.6881338742393509,3.0
+Sonar,456,5,"DP-GBC (1 release, eps=3)",0.5158215010141987,3.0
+Sonar,456,5,"DP-tree (A trees, eps/A each)",0.5440162271805274,3.0
+Sonar,456,5,"DP-tree (A trees, oracle depth)",0.6202839756592291,3.0
+Sonar,456,5,"DP-tree (1 shared tree, eps=3)",0.6881338742393509,3.0
+Sonar,456,10,"DP-GBC (1 release, eps=3)",0.5158215010141988,3.0
+Sonar,456,10,"DP-tree (A trees, eps/A each)",0.5547667342799188,3.0
+Sonar,456,10,"DP-tree (A trees, oracle depth)",0.5366125760649088,3.0
+Sonar,456,10,"DP-tree (1 shared tree, eps=3)",0.6881338742393509,3.0
+Sonar,456,20,"DP-GBC (1 release, eps=3)",0.5158215010141988,3.0
+Sonar,456,20,"DP-tree (A trees, eps/A each)",0.4959178498985802,3.0
+Sonar,456,20,"DP-tree (A trees, oracle depth)",0.5260395537525355,3.0
+Sonar,456,20,"DP-tree (1 shared tree, eps=3)",0.6881338742393509,3.0
+Sonar,789,1,"DP-GBC (1 release, eps=3)",0.5633874239350912,3.0
+Sonar,789,1,"DP-tree (A trees, eps/A each)",0.670892494929006,3.0
+Sonar,789,1,"DP-tree (A trees, oracle depth)",0.6977687626774849,3.0
+Sonar,789,1,"DP-tree (1 shared tree, eps=3)",0.6830628803245437,3.0
+Sonar,789,2,"DP-GBC (1 release, eps=3)",0.543864097363083,3.0
+Sonar,789,2,"DP-tree (A trees, eps/A each)",0.6802738336713996,3.0
+Sonar,789,2,"DP-tree (A trees, oracle depth)",0.6252535496957404,3.0
+Sonar,789,2,"DP-tree (1 shared tree, eps=3)",0.6830628803245437,3.0
+Sonar,789,3,"DP-GBC (1 release, eps=3)",0.5126774847870182,3.0
+Sonar,789,3,"DP-tree (A trees, eps/A each)",0.6139283299526709,3.0
+Sonar,789,3,"DP-tree (A trees, oracle depth)",0.5993914807302231,3.0
+Sonar,789,3,"DP-tree (1 shared tree, eps=3)",0.6830628803245437,3.0
+Sonar,789,5,"DP-GBC (1 release, eps=3)",0.5448275862068965,3.0
+Sonar,789,5,"DP-tree (A trees, eps/A each)",0.5368154158215009,3.0
+Sonar,789,5,"DP-tree (A trees, oracle depth)",0.5117647058823529,3.0
+Sonar,789,5,"DP-tree (1 shared tree, eps=3)",0.6830628803245437,3.0
+Sonar,789,10,"DP-GBC (1 release, eps=3)",0.5448275862068964,3.0
+Sonar,789,10,"DP-tree (A trees, eps/A each)",0.5155679513184583,3.0
+Sonar,789,10,"DP-tree (A trees, oracle depth)",0.5238336713995944,3.0
+Sonar,789,10,"DP-tree (1 shared tree, eps=3)",0.6830628803245437,3.0
+Sonar,789,20,"DP-GBC (1 release, eps=3)",0.5448275862068964,3.0
+Sonar,789,20,"DP-tree (A trees, eps/A each)",0.4913539553752536,3.0
+Sonar,789,20,"DP-tree (A trees, oracle depth)",0.5143509127789047,3.0
+Sonar,789,20,"DP-tree (1 shared tree, eps=3)",0.6830628803245437,3.0
+Sonar,101,1,"DP-GBC (1 release, eps=3)",0.4614604462474645,3.0
+Sonar,101,1,"DP-tree (A trees, eps/A each)",0.7439148073022313,3.0
+Sonar,101,1,"DP-tree (A trees, oracle depth)",0.7271805273833671,3.0
+Sonar,101,1,"DP-tree (1 shared tree, eps=3)",0.7662271805273834,3.0
+Sonar,101,2,"DP-GBC (1 release, eps=3)",0.4472616632860041,3.0
+Sonar,101,2,"DP-tree (A trees, eps/A each)",0.5745436105476673,3.0
+Sonar,101,2,"DP-tree (A trees, oracle depth)",0.5818965517241379,3.0
+Sonar,101,2,"DP-tree (1 shared tree, eps=3)",0.7662271805273834,3.0
+Sonar,101,3,"DP-GBC (1 release, eps=3)",0.45774171737660585,3.0
+Sonar,101,3,"DP-tree (A trees, eps/A each)",0.5388776200135227,3.0
+Sonar,101,3,"DP-tree (A trees, oracle depth)",0.6827248140635565,3.0
+Sonar,101,3,"DP-tree (1 shared tree, eps=3)",0.7662271805273834,3.0
+Sonar,101,5,"DP-GBC (1 release, eps=3)",0.4688640973630832,3.0
+Sonar,101,5,"DP-tree (A trees, eps/A each)",0.6119675456389453,3.0
+Sonar,101,5,"DP-tree (A trees, oracle depth)",0.5744421906693712,3.0
+Sonar,101,5,"DP-tree (1 shared tree, eps=3)",0.7662271805273834,3.0
+Sonar,101,10,"DP-GBC (1 release, eps=3)",0.4688640973630832,3.0
+Sonar,101,10,"DP-tree (A trees, eps/A each)",0.5070486815415822,3.0
+Sonar,101,10,"DP-tree (A trees, oracle depth)",0.5415314401622717,3.0
+Sonar,101,10,"DP-tree (1 shared tree, eps=3)",0.7662271805273834,3.0
+Sonar,101,20,"DP-GBC (1 release, eps=3)",0.4688640973630832,3.0
+Sonar,101,20,"DP-tree (A trees, eps/A each)",0.49548681541582146,3.0
+Sonar,101,20,"DP-tree (A trees, oracle depth)",0.528524340770791,3.0
+Sonar,101,20,"DP-tree (1 shared tree, eps=3)",0.7662271805273834,3.0
+Sonar,2024,1,"DP-GBC (1 release, eps=3)",0.4051724137931034,3.0
+Sonar,2024,1,"DP-tree (A trees, eps/A each)",0.579107505070994,3.0
+Sonar,2024,1,"DP-tree (A trees, oracle depth)",0.7226166328600405,3.0
+Sonar,2024,1,"DP-tree (1 shared tree, eps=3)",0.4193711967545639,3.0
+Sonar,2024,2,"DP-GBC (1 release, eps=3)",0.5725152129817443,3.0
+Sonar,2024,2,"DP-tree (A trees, eps/A each)",0.4949290060851927,3.0
+Sonar,2024,2,"DP-tree (A trees, oracle depth)",0.7117139959432048,3.0
+Sonar,2024,2,"DP-tree (1 shared tree, eps=3)",0.4193711967545639,3.0
+Sonar,2024,3,"DP-GBC (1 release, eps=3)",0.5895875591615957,3.0
+Sonar,2024,3,"DP-tree (A trees, eps/A each)",0.5518931710615281,3.0
+Sonar,2024,3,"DP-tree (A trees, oracle depth)",0.65973630831643,3.0
+Sonar,2024,3,"DP-tree (1 shared tree, eps=3)",0.4193711967545639,3.0
+Sonar,2024,5,"DP-GBC (1 release, eps=3)",0.5538539553752535,3.0
+Sonar,2024,5,"DP-tree (A trees, eps/A each)",0.5208924949290061,3.0
+Sonar,2024,5,"DP-tree (A trees, oracle depth)",0.5365111561866126,3.0
+Sonar,2024,5,"DP-tree (1 shared tree, eps=3)",0.4193711967545639,3.0
+Sonar,2024,10,"DP-GBC (1 release, eps=3)",0.5538539553752535,3.0
+Sonar,2024,10,"DP-tree (A trees, eps/A each)",0.5376774847870183,3.0
+Sonar,2024,10,"DP-tree (A trees, oracle depth)",0.5570993914807303,3.0
+Sonar,2024,10,"DP-tree (1 shared tree, eps=3)",0.4193711967545639,3.0
+Sonar,2024,20,"DP-GBC (1 release, eps=3)",0.5538539553752535,3.0
+Sonar,2024,20,"DP-tree (A trees, eps/A each)",0.48176977687626776,3.0
+Sonar,2024,20,"DP-tree (A trees, oracle depth)",0.5330628803245435,3.0
+Sonar,2024,20,"DP-tree (1 shared tree, eps=3)",0.4193711967545639,3.0
+Sonar,2025,1,"DP-GBC (1 release, eps=3)",0.3879310344827586,3.0
+Sonar,2025,1,"DP-tree (A trees, eps/A each)",0.7596348884381339,3.0
+Sonar,2025,1,"DP-tree (A trees, oracle depth)",0.7860040567951319,3.0
+Sonar,2025,1,"DP-tree (1 shared tree, eps=3)",0.7860040567951319,3.0
+Sonar,2025,2,"DP-GBC (1 release, eps=3)",0.4394016227180527,3.0
+Sonar,2025,2,"DP-tree (A trees, eps/A each)",0.579107505070994,3.0
+Sonar,2025,2,"DP-tree (A trees, oracle depth)",0.6678498985801217,3.0
+Sonar,2025,2,"DP-tree (1 shared tree, eps=3)",0.7860040567951319,3.0
+Sonar,2025,3,"DP-GBC (1 release, eps=3)",0.442866801893171,3.0
+Sonar,2025,3,"DP-tree (A trees, eps/A each)",0.4574036511156187,3.0
+Sonar,2025,3,"DP-tree (A trees, oracle depth)",0.5872210953346856,3.0
+Sonar,2025,3,"DP-tree (1 shared tree, eps=3)",0.7860040567951319,3.0
+Sonar,2025,5,"DP-GBC (1 release, eps=3)",0.4349898580121703,3.0
+Sonar,2025,5,"DP-tree (A trees, eps/A each)",0.500709939148073,3.0
+Sonar,2025,5,"DP-tree (A trees, oracle depth)",0.5806288032454361,3.0
+Sonar,2025,5,"DP-tree (1 shared tree, eps=3)",0.7860040567951319,3.0
+Sonar,2025,10,"DP-GBC (1 release, eps=3)",0.4349898580121704,3.0
+Sonar,2025,10,"DP-tree (A trees, eps/A each)",0.5048174442190669,3.0
+Sonar,2025,10,"DP-tree (A trees, oracle depth)",0.4971602434077079,3.0
+Sonar,2025,10,"DP-tree (1 shared tree, eps=3)",0.7860040567951319,3.0
+Sonar,2025,20,"DP-GBC (1 release, eps=3)",0.4349898580121704,3.0
+Sonar,2025,20,"DP-tree (A trees, eps/A each)",0.49680527383367135,3.0
+Sonar,2025,20,"DP-tree (A trees, oracle depth)",0.5168864097363083,3.0
+Sonar,2025,20,"DP-tree (1 shared tree, eps=3)",0.7860040567951319,3.0
+Sonar,2026,1,"DP-GBC (1 release, eps=3)",0.5390466531440162,3.0
+Sonar,2026,1,"DP-tree (A trees, eps/A each)",0.6110547667342799,3.0
+Sonar,2026,1,"DP-tree (A trees, oracle depth)",0.736815415821501,3.0
+Sonar,2026,1,"DP-tree (1 shared tree, eps=3)",0.7048681541582149,3.0
+Sonar,2026,2,"DP-GBC (1 release, eps=3)",0.5570486815415822,3.0
+Sonar,2026,2,"DP-tree (A trees, eps/A each)",0.5169878296146044,3.0
+Sonar,2026,2,"DP-tree (A trees, oracle depth)",0.6115618661257607,3.0
+Sonar,2026,2,"DP-tree (1 shared tree, eps=3)",0.7048681541582149,3.0
+Sonar,2026,3,"DP-GBC (1 release, eps=3)",0.5696416497633536,3.0
+Sonar,2026,3,"DP-tree (A trees, eps/A each)",0.5273833671399594,3.0
+Sonar,2026,3,"DP-tree (A trees, oracle depth)",0.5872210953346856,3.0
+Sonar,2026,3,"DP-tree (1 shared tree, eps=3)",0.7048681541582149,3.0
+Sonar,2026,5,"DP-GBC (1 release, eps=3)",0.5445233265720082,3.0
+Sonar,2026,5,"DP-tree (A trees, eps/A each)",0.5350912778904665,3.0
+Sonar,2026,5,"DP-tree (A trees, oracle depth)",0.541784989858012,3.0
+Sonar,2026,5,"DP-tree (1 shared tree, eps=3)",0.7048681541582149,3.0
+Sonar,2026,10,"DP-GBC (1 release, eps=3)",0.5445233265720081,3.0
+Sonar,2026,10,"DP-tree (A trees, eps/A each)",0.4869168356997971,3.0
+Sonar,2026,10,"DP-tree (A trees, oracle depth)",0.5163286004056795,3.0
+Sonar,2026,10,"DP-tree (1 shared tree, eps=3)",0.7048681541582149,3.0
+Sonar,2026,20,"DP-GBC (1 release, eps=3)",0.5445233265720082,3.0
+Sonar,2026,20,"DP-tree (A trees, eps/A each)",0.49028904665314404,3.0
+Sonar,2026,20,"DP-tree (A trees, oracle depth)",0.5085699797160244,3.0
+Sonar,2026,20,"DP-tree (1 shared tree, eps=3)",0.7048681541582149,3.0
+Sonar,2027,1,"DP-GBC (1 release, eps=3)",0.5101419878296146,3.0
+Sonar,2027,1,"DP-tree (A trees, eps/A each)",0.7712981744421907,3.0
+Sonar,2027,1,"DP-tree (A trees, oracle depth)",0.7712981744421907,3.0
+Sonar,2027,1,"DP-tree (1 shared tree, eps=3)",0.48073022312373226,3.0
+Sonar,2027,2,"DP-GBC (1 release, eps=3)",0.5126774847870182,3.0
+Sonar,2027,2,"DP-tree (A trees, eps/A each)",0.5147058823529411,3.0
+Sonar,2027,2,"DP-tree (A trees, oracle depth)",0.7712981744421907,3.0
+Sonar,2027,2,"DP-tree (1 shared tree, eps=3)",0.48073022312373226,3.0
+Sonar,2027,3,"DP-GBC (1 release, eps=3)",0.5316091954022989,3.0
+Sonar,2027,3,"DP-tree (A trees, eps/A each)",0.5735294117647058,3.0
+Sonar,2027,3,"DP-tree (A trees, oracle depth)",0.6069979716024341,3.0
+Sonar,2027,3,"DP-tree (1 shared tree, eps=3)",0.48073022312373226,3.0
+Sonar,2027,5,"DP-GBC (1 release, eps=3)",0.51947261663286,3.0
+Sonar,2027,5,"DP-tree (A trees, eps/A each)",0.595131845841785,3.0
+Sonar,2027,5,"DP-tree (A trees, oracle depth)",0.5141987829614605,3.0
+Sonar,2027,5,"DP-tree (1 shared tree, eps=3)",0.48073022312373226,3.0
+Sonar,2027,10,"DP-GBC (1 release, eps=3)",0.51947261663286,3.0
+Sonar,2027,10,"DP-tree (A trees, eps/A each)",0.5039553752535497,3.0
+Sonar,2027,10,"DP-tree (A trees, oracle depth)",0.5155679513184583,3.0
+Sonar,2027,10,"DP-tree (1 shared tree, eps=3)",0.48073022312373226,3.0
+Sonar,2027,20,"DP-GBC (1 release, eps=3)",0.51947261663286,3.0
+Sonar,2027,20,"DP-tree (A trees, eps/A each)",0.5111561866125761,3.0
+Sonar,2027,20,"DP-tree (A trees, oracle depth)",0.5052991886409737,3.0
+Sonar,2027,20,"DP-tree (1 shared tree, eps=3)",0.48073022312373226,3.0
+Sonar,2028,1,"DP-GBC (1 release, eps=3)",0.5,3.0
+Sonar,2028,1,"DP-tree (A trees, eps/A each)",0.47920892494929007,3.0
+Sonar,2028,1,"DP-tree (A trees, oracle depth)",0.7342799188640974,3.0
+Sonar,2028,1,"DP-tree (1 shared tree, eps=3)",0.7221095334685599,3.0
+Sonar,2028,2,"DP-GBC (1 release, eps=3)",0.5,3.0
+Sonar,2028,2,"DP-tree (A trees, eps/A each)",0.5933062880324544,3.0
+Sonar,2028,2,"DP-tree (A trees, oracle depth)",0.6498478701825559,3.0
+Sonar,2028,2,"DP-tree (1 shared tree, eps=3)",0.7221095334685599,3.0
+Sonar,2028,3,"DP-GBC (1 release, eps=3)",0.5574712643678161,3.0
+Sonar,2028,3,"DP-tree (A trees, eps/A each)",0.5836713995943205,3.0
+Sonar,2028,3,"DP-tree (A trees, oracle depth)",0.5422582826233943,3.0
+Sonar,2028,3,"DP-tree (1 shared tree, eps=3)",0.7221095334685599,3.0
+Sonar,2028,5,"DP-GBC (1 release, eps=3)",0.5315415821501015,3.0
+Sonar,2028,5,"DP-tree (A trees, eps/A each)",0.5532454361054767,3.0
+Sonar,2028,5,"DP-tree (A trees, oracle depth)",0.5464503042596348,3.0
+Sonar,2028,5,"DP-tree (1 shared tree, eps=3)",0.7221095334685599,3.0
+Sonar,2028,10,"DP-GBC (1 release, eps=3)",0.5315415821501015,3.0
+Sonar,2028,10,"DP-tree (A trees, eps/A each)",0.4969574036511156,3.0
+Sonar,2028,10,"DP-tree (A trees, oracle depth)",0.5316937119675457,3.0
+Sonar,2028,10,"DP-tree (1 shared tree, eps=3)",0.7221095334685599,3.0
+Sonar,2028,20,"DP-GBC (1 release, eps=3)",0.5315415821501015,3.0
+Sonar,2028,20,"DP-tree (A trees, eps/A each)",0.4945486815415821,3.0
+Sonar,2028,20,"DP-tree (A trees, oracle depth)",0.5037525354969574,3.0
+Sonar,2028,20,"DP-tree (1 shared tree, eps=3)",0.7221095334685599,3.0
+Wine,42,1,"DP-GBC (1 release, eps=3)",0.4656084656084656,3.0
+Wine,42,1,"DP-tree (A trees, eps/A each)",0.7529100529100529,3.0
+Wine,42,1,"DP-tree (A trees, oracle depth)",0.8793650793650793,3.0
+Wine,42,1,"DP-tree (1 shared tree, eps=3)",0.8539682539682539,3.0
+Wine,42,2,"DP-GBC (1 release, eps=3)",0.4486772486772487,3.0
+Wine,42,2,"DP-tree (A trees, eps/A each)",0.7788359788359788,3.0
+Wine,42,2,"DP-tree (A trees, oracle depth)",0.7328042328042328,3.0
+Wine,42,2,"DP-tree (1 shared tree, eps=3)",0.8539682539682539,3.0
+Wine,42,3,"DP-GBC (1 release, eps=3)",0.4737213403880071,3.0
+Wine,42,3,"DP-tree (A trees, eps/A each)",0.6998236331569664,3.0
+Wine,42,3,"DP-tree (A trees, oracle depth)",0.5977072310405643,3.0
+Wine,42,3,"DP-tree (1 shared tree, eps=3)",0.8539682539682539,3.0
+Wine,42,5,"DP-GBC (1 release, eps=3)",0.45174603174603173,3.0
+Wine,42,5,"DP-tree (A trees, eps/A each)",0.6052910052910053,3.0
+Wine,42,5,"DP-tree (A trees, oracle depth)",0.5485714285714286,3.0
+Wine,42,5,"DP-tree (1 shared tree, eps=3)",0.8539682539682539,3.0
+Wine,42,10,"DP-GBC (1 release, eps=3)",0.45174603174603173,3.0
+Wine,42,10,"DP-tree (A trees, eps/A each)",0.4742857142857143,3.0
+Wine,42,10,"DP-tree (A trees, oracle depth)",0.49910052910052904,3.0
+Wine,42,10,"DP-tree (1 shared tree, eps=3)",0.8539682539682539,3.0
+Wine,42,20,"DP-GBC (1 release, eps=3)",0.45174603174603173,3.0
+Wine,42,20,"DP-tree (A trees, eps/A each)",0.35338624338624336,3.0
+Wine,42,20,"DP-tree (A trees, oracle depth)",0.4169312169312168,3.0
+Wine,42,20,"DP-tree (1 shared tree, eps=3)",0.8539682539682539,3.0
+Wine,123,1,"DP-GBC (1 release, eps=3)",0.4708994708994709,3.0
+Wine,123,1,"DP-tree (A trees, eps/A each)",0.7756613756613756,3.0
+Wine,123,1,"DP-tree (A trees, oracle depth)",0.8222222222222223,3.0
+Wine,123,1,"DP-tree (1 shared tree, eps=3)",0.7746031746031746,3.0
+Wine,123,2,"DP-GBC (1 release, eps=3)",0.48544973544973546,3.0
+Wine,123,2,"DP-tree (A trees, eps/A each)",0.7428571428571429,3.0
+Wine,123,2,"DP-tree (A trees, oracle depth)",0.6063492063492063,3.0
+Wine,123,2,"DP-tree (1 shared tree, eps=3)",0.7746031746031746,3.0
+Wine,123,3,"DP-GBC (1 release, eps=3)",0.45502645502645506,3.0
+Wine,123,3,"DP-tree (A trees, eps/A each)",0.6444444444444444,3.0
+Wine,123,3,"DP-tree (A trees, oracle depth)",0.6520282186948854,3.0
+Wine,123,3,"DP-tree (1 shared tree, eps=3)",0.7746031746031746,3.0
+Wine,123,5,"DP-GBC (1 release, eps=3)",0.45132275132275135,3.0
+Wine,123,5,"DP-tree (A trees, eps/A each)",0.5553439153439153,3.0
+Wine,123,5,"DP-tree (A trees, oracle depth)",0.6757671957671958,3.0
+Wine,123,5,"DP-tree (1 shared tree, eps=3)",0.7746031746031746,3.0
+Wine,123,10,"DP-GBC (1 release, eps=3)",0.45132275132275135,3.0
+Wine,123,10,"DP-tree (A trees, eps/A each)",0.4152380952380952,3.0
+Wine,123,10,"DP-tree (A trees, oracle depth)",0.4640740740740741,3.0
+Wine,123,10,"DP-tree (1 shared tree, eps=3)",0.7746031746031746,3.0
+Wine,123,20,"DP-GBC (1 release, eps=3)",0.45132275132275124,3.0
+Wine,123,20,"DP-tree (A trees, eps/A each)",0.37711640211640207,3.0
+Wine,123,20,"DP-tree (A trees, oracle depth)",0.43015873015873024,3.0
+Wine,123,20,"DP-tree (1 shared tree, eps=3)",0.7746031746031746,3.0
+Wine,456,1,"DP-GBC (1 release, eps=3)",0.4878306878306879,3.0
+Wine,456,1,"DP-tree (A trees, eps/A each)",0.5904761904761905,3.0
+Wine,456,1,"DP-tree (A trees, oracle depth)",0.7973544973544974,3.0
+Wine,456,1,"DP-tree (1 shared tree, eps=3)",0.9211640211640212,3.0
+Wine,456,2,"DP-GBC (1 release, eps=3)",0.4502645502645503,3.0
+Wine,456,2,"DP-tree (A trees, eps/A each)",0.7645502645502645,3.0
+Wine,456,2,"DP-tree (A trees, oracle depth)",0.7161375661375662,3.0
+Wine,456,2,"DP-tree (1 shared tree, eps=3)",0.9211640211640212,3.0
+Wine,456,3,"DP-GBC (1 release, eps=3)",0.41675485008818347,3.0
+Wine,456,3,"DP-tree (A trees, eps/A each)",0.6477954144620811,3.0
+Wine,456,3,"DP-tree (A trees, oracle depth)",0.6597883597883597,3.0
+Wine,456,3,"DP-tree (1 shared tree, eps=3)",0.9211640211640212,3.0
+Wine,456,5,"DP-GBC (1 release, eps=3)",0.4368253968253968,3.0
+Wine,456,5,"DP-tree (A trees, eps/A each)",0.5570370370370371,3.0
+Wine,456,5,"DP-tree (A trees, oracle depth)",0.5534391534391533,3.0
+Wine,456,5,"DP-tree (1 shared tree, eps=3)",0.9211640211640212,3.0
+Wine,456,10,"DP-GBC (1 release, eps=3)",0.4368253968253968,3.0
+Wine,456,10,"DP-tree (A trees, eps/A each)",0.4670899470899471,3.0
+Wine,456,10,"DP-tree (A trees, oracle depth)",0.4875132275132275,3.0
+Wine,456,10,"DP-tree (1 shared tree, eps=3)",0.9211640211640212,3.0
+Wine,456,20,"DP-GBC (1 release, eps=3)",0.4368253968253968,3.0
+Wine,456,20,"DP-tree (A trees, eps/A each)",0.363994708994709,3.0
+Wine,456,20,"DP-tree (A trees, oracle depth)",0.39518518518518514,3.0
+Wine,456,20,"DP-tree (1 shared tree, eps=3)",0.9211640211640212,3.0
+Wine,789,1,"DP-GBC (1 release, eps=3)",0.3941798941798942,3.0
+Wine,789,1,"DP-tree (A trees, eps/A each)",0.7687830687830687,3.0
+Wine,789,1,"DP-tree (A trees, oracle depth)",0.775132275132275,3.0
+Wine,789,1,"DP-tree (1 shared tree, eps=3)",0.775132275132275,3.0
+Wine,789,2,"DP-GBC (1 release, eps=3)",0.43386243386243384,3.0
+Wine,789,2,"DP-tree (A trees, eps/A each)",0.5560846560846561,3.0
+Wine,789,2,"DP-tree (A trees, oracle depth)",0.7632275132275133,3.0
+Wine,789,2,"DP-tree (1 shared tree, eps=3)",0.775132275132275,3.0
+Wine,789,3,"DP-GBC (1 release, eps=3)",0.4077601410934744,3.0
+Wine,789,3,"DP-tree (A trees, eps/A each)",0.7929453262786597,3.0
+Wine,789,3,"DP-tree (A trees, oracle depth)",0.7112874779541446,3.0
+Wine,789,3,"DP-tree (1 shared tree, eps=3)",0.775132275132275,3.0
+Wine,789,5,"DP-GBC (1 release, eps=3)",0.41185185185185186,3.0
+Wine,789,5,"DP-tree (A trees, eps/A each)",0.5063492063492063,3.0
+Wine,789,5,"DP-tree (A trees, oracle depth)",0.6026455026455027,3.0
+Wine,789,5,"DP-tree (1 shared tree, eps=3)",0.775132275132275,3.0
+Wine,789,10,"DP-GBC (1 release, eps=3)",0.4118518518518518,3.0
+Wine,789,10,"DP-tree (A trees, eps/A each)",0.4678835978835979,3.0
+Wine,789,10,"DP-tree (A trees, oracle depth)",0.5091534391534391,3.0
+Wine,789,10,"DP-tree (1 shared tree, eps=3)",0.775132275132275,3.0
+Wine,789,20,"DP-GBC (1 release, eps=3)",0.41185185185185186,3.0
+Wine,789,20,"DP-tree (A trees, eps/A each)",0.38944444444444437,3.0
+Wine,789,20,"DP-tree (A trees, oracle depth)",0.4018783068783069,3.0
+Wine,789,20,"DP-tree (1 shared tree, eps=3)",0.775132275132275,3.0
+Wine,101,1,"DP-GBC (1 release, eps=3)",0.35185185185185186,3.0
+Wine,101,1,"DP-tree (A trees, eps/A each)",0.8412698412698413,3.0
+Wine,101,1,"DP-tree (A trees, oracle depth)",0.8015873015873015,3.0
+Wine,101,1,"DP-tree (1 shared tree, eps=3)",0.8164021164021165,3.0
+Wine,101,2,"DP-GBC (1 release, eps=3)",0.4312169312169312,3.0
+Wine,101,2,"DP-tree (A trees, eps/A each)",0.7455026455026454,3.0
+Wine,101,2,"DP-tree (A trees, oracle depth)",0.7576719576719577,3.0
+Wine,101,2,"DP-tree (1 shared tree, eps=3)",0.8164021164021165,3.0
+Wine,101,3,"DP-GBC (1 release, eps=3)",0.4761904761904762,3.0
+Wine,101,3,"DP-tree (A trees, eps/A each)",0.6022927689594356,3.0
+Wine,101,3,"DP-tree (A trees, oracle depth)",0.6181657848324514,3.0
+Wine,101,3,"DP-tree (1 shared tree, eps=3)",0.8164021164021165,3.0
+Wine,101,5,"DP-GBC (1 release, eps=3)",0.5042328042328041,3.0
+Wine,101,5,"DP-tree (A trees, eps/A each)",0.49978835978835984,3.0
+Wine,101,5,"DP-tree (A trees, oracle depth)",0.5992592592592592,3.0
+Wine,101,5,"DP-tree (1 shared tree, eps=3)",0.8164021164021165,3.0
+Wine,101,10,"DP-GBC (1 release, eps=3)",0.5042328042328041,3.0
+Wine,101,10,"DP-tree (A trees, eps/A each)",0.42973544973544975,3.0
+Wine,101,10,"DP-tree (A trees, oracle depth)",0.45423280423280427,3.0
+Wine,101,10,"DP-tree (1 shared tree, eps=3)",0.8164021164021165,3.0
+Wine,101,20,"DP-GBC (1 release, eps=3)",0.5042328042328041,3.0
+Wine,101,20,"DP-tree (A trees, eps/A each)",0.39119047619047614,3.0
+Wine,101,20,"DP-tree (A trees, oracle depth)",0.40423280423280417,3.0
+Wine,101,20,"DP-tree (1 shared tree, eps=3)",0.8164021164021165,3.0
+Wine,2024,1,"DP-GBC (1 release, eps=3)",0.798941798941799,3.0
+Wine,2024,1,"DP-tree (A trees, eps/A each)",0.6624338624338625,3.0
+Wine,2024,1,"DP-tree (A trees, oracle depth)",0.8703703703703703,3.0
+Wine,2024,1,"DP-tree (1 shared tree, eps=3)",0.765079365079365,3.0
+Wine,2024,2,"DP-GBC (1 release, eps=3)",0.716931216931217,3.0
+Wine,2024,2,"DP-tree (A trees, eps/A each)",0.7322751322751322,3.0
+Wine,2024,2,"DP-tree (A trees, oracle depth)",0.6322751322751322,3.0
+Wine,2024,2,"DP-tree (1 shared tree, eps=3)",0.765079365079365,3.0
+Wine,2024,3,"DP-GBC (1 release, eps=3)",0.6975308641975309,3.0
+Wine,2024,3,"DP-tree (A trees, eps/A each)",0.6458553791887125,3.0
+Wine,2024,3,"DP-tree (A trees, oracle depth)",0.6181657848324514,3.0
+Wine,2024,3,"DP-tree (1 shared tree, eps=3)",0.765079365079365,3.0
+Wine,2024,5,"DP-GBC (1 release, eps=3)",0.6367195767195767,3.0
+Wine,2024,5,"DP-tree (A trees, eps/A each)",0.4603174603174603,3.0
+Wine,2024,5,"DP-tree (A trees, oracle depth)",0.6706878306878308,3.0
+Wine,2024,5,"DP-tree (1 shared tree, eps=3)",0.765079365079365,3.0
+Wine,2024,10,"DP-GBC (1 release, eps=3)",0.6367195767195767,3.0
+Wine,2024,10,"DP-tree (A trees, eps/A each)",0.3862962962962963,3.0
+Wine,2024,10,"DP-tree (A trees, oracle depth)",0.48264550264550266,3.0
+Wine,2024,10,"DP-tree (1 shared tree, eps=3)",0.765079365079365,3.0
+Wine,2024,20,"DP-GBC (1 release, eps=3)",0.6367195767195767,3.0
+Wine,2024,20,"DP-tree (A trees, eps/A each)",0.3865079365079364,3.0
+Wine,2024,20,"DP-tree (A trees, oracle depth)",0.40251322751322755,3.0
+Wine,2024,20,"DP-tree (1 shared tree, eps=3)",0.765079365079365,3.0
+Wine,2025,1,"DP-GBC (1 release, eps=3)",0.5105820105820106,3.0
+Wine,2025,1,"DP-tree (A trees, eps/A each)",0.7386243386243386,3.0
+Wine,2025,1,"DP-tree (A trees, oracle depth)",0.7587301587301587,3.0
+Wine,2025,1,"DP-tree (1 shared tree, eps=3)",0.8190476190476191,3.0
+Wine,2025,2,"DP-GBC (1 release, eps=3)",0.555026455026455,3.0
+Wine,2025,2,"DP-tree (A trees, eps/A each)",0.4801587301587301,3.0
+Wine,2025,2,"DP-tree (A trees, oracle depth)",0.7917989417989417,3.0
+Wine,2025,2,"DP-tree (1 shared tree, eps=3)",0.8190476190476191,3.0
+Wine,2025,3,"DP-GBC (1 release, eps=3)",0.5751322751322752,3.0
+Wine,2025,3,"DP-tree (A trees, eps/A each)",0.6296296296296297,3.0
+Wine,2025,3,"DP-tree (A trees, oracle depth)",0.7001763668430335,3.0
+Wine,2025,3,"DP-tree (1 shared tree, eps=3)",0.8190476190476191,3.0
+Wine,2025,5,"DP-GBC (1 release, eps=3)",0.6113227513227513,3.0
+Wine,2025,5,"DP-tree (A trees, eps/A each)",0.4362962962962963,3.0
+Wine,2025,5,"DP-tree (A trees, oracle depth)",0.6005291005291006,3.0
+Wine,2025,5,"DP-tree (1 shared tree, eps=3)",0.8190476190476191,3.0
+Wine,2025,10,"DP-GBC (1 release, eps=3)",0.6113227513227513,3.0
+Wine,2025,10,"DP-tree (A trees, eps/A each)",0.5034391534391534,3.0
+Wine,2025,10,"DP-tree (A trees, oracle depth)",0.5141798941798943,3.0
+Wine,2025,10,"DP-tree (1 shared tree, eps=3)",0.8190476190476191,3.0
+Wine,2025,20,"DP-GBC (1 release, eps=3)",0.6113227513227513,3.0
+Wine,2025,20,"DP-tree (A trees, eps/A each)",0.34148148148148144,3.0
+Wine,2025,20,"DP-tree (A trees, oracle depth)",0.4198412698412698,3.0
+Wine,2025,20,"DP-tree (1 shared tree, eps=3)",0.8190476190476191,3.0
+Wine,2026,1,"DP-GBC (1 release, eps=3)",0.7624338624338624,3.0
+Wine,2026,1,"DP-tree (A trees, eps/A each)",0.8862433862433862,3.0
+Wine,2026,1,"DP-tree (A trees, oracle depth)",0.8640211640211639,3.0
+Wine,2026,1,"DP-tree (1 shared tree, eps=3)",0.8984126984126984,3.0
+Wine,2026,2,"DP-GBC (1 release, eps=3)",0.7637566137566136,3.0
+Wine,2026,2,"DP-tree (A trees, eps/A each)",0.6433862433862434,3.0
+Wine,2026,2,"DP-tree (A trees, oracle depth)",0.782010582010582,3.0
+Wine,2026,2,"DP-tree (1 shared tree, eps=3)",0.8984126984126984,3.0
+Wine,2026,3,"DP-GBC (1 release, eps=3)",0.7694885361552027,3.0
+Wine,2026,3,"DP-tree (A trees, eps/A each)",0.671957671957672,3.0
+Wine,2026,3,"DP-tree (A trees, oracle depth)",0.6236331569664904,3.0
+Wine,2026,3,"DP-tree (1 shared tree, eps=3)",0.8984126984126984,3.0
+Wine,2026,5,"DP-GBC (1 release, eps=3)",0.7233862433862434,3.0
+Wine,2026,5,"DP-tree (A trees, eps/A each)",0.46158730158730155,3.0
+Wine,2026,5,"DP-tree (A trees, oracle depth)",0.6074074074074074,3.0
+Wine,2026,5,"DP-tree (1 shared tree, eps=3)",0.8984126984126984,3.0
+Wine,2026,10,"DP-GBC (1 release, eps=3)",0.7233862433862434,3.0
+Wine,2026,10,"DP-tree (A trees, eps/A each)",0.41126984126984123,3.0
+Wine,2026,10,"DP-tree (A trees, oracle depth)",0.48936507936507934,3.0
+Wine,2026,10,"DP-tree (1 shared tree, eps=3)",0.8984126984126984,3.0
+Wine,2026,20,"DP-GBC (1 release, eps=3)",0.7233862433862434,3.0
+Wine,2026,20,"DP-tree (A trees, eps/A each)",0.3518783068783069,3.0
+Wine,2026,20,"DP-tree (A trees, oracle depth)",0.38566137566137565,3.0
+Wine,2026,20,"DP-tree (1 shared tree, eps=3)",0.8984126984126984,3.0
+Wine,2027,1,"DP-GBC (1 release, eps=3)",0.20952380952380953,3.0
+Wine,2027,1,"DP-tree (A trees, eps/A each)",0.7682539682539682,3.0
+Wine,2027,1,"DP-tree (A trees, oracle depth)",0.8354497354497354,3.0
+Wine,2027,1,"DP-tree (1 shared tree, eps=3)",0.8555555555555556,3.0
+Wine,2027,2,"DP-GBC (1 release, eps=3)",0.36904761904761907,3.0
+Wine,2027,2,"DP-tree (A trees, eps/A each)",0.7156084656084656,3.0
+Wine,2027,2,"DP-tree (A trees, oracle depth)",0.8195767195767194,3.0
+Wine,2027,2,"DP-tree (1 shared tree, eps=3)",0.8555555555555556,3.0
+Wine,2027,3,"DP-GBC (1 release, eps=3)",0.4123456790123457,3.0
+Wine,2027,3,"DP-tree (A trees, eps/A each)",0.4749559082892416,3.0
+Wine,2027,3,"DP-tree (A trees, oracle depth)",0.6315696649029983,3.0
+Wine,2027,3,"DP-tree (1 shared tree, eps=3)",0.8555555555555556,3.0
+Wine,2027,5,"DP-GBC (1 release, eps=3)",0.37460317460317466,3.0
+Wine,2027,5,"DP-tree (A trees, eps/A each)",0.4564021164021164,3.0
+Wine,2027,5,"DP-tree (A trees, oracle depth)",0.5543915343915343,3.0
+Wine,2027,5,"DP-tree (1 shared tree, eps=3)",0.8555555555555556,3.0
+Wine,2027,10,"DP-GBC (1 release, eps=3)",0.3746031746031746,3.0
+Wine,2027,10,"DP-tree (A trees, eps/A each)",0.4022222222222222,3.0
+Wine,2027,10,"DP-tree (A trees, oracle depth)",0.4447089947089948,3.0
+Wine,2027,10,"DP-tree (1 shared tree, eps=3)",0.8555555555555556,3.0
+Wine,2027,20,"DP-GBC (1 release, eps=3)",0.37460317460317466,3.0
+Wine,2027,20,"DP-tree (A trees, eps/A each)",0.37645502645502643,3.0
+Wine,2027,20,"DP-tree (A trees, oracle depth)",0.3981216931216931,3.0
+Wine,2027,20,"DP-tree (1 shared tree, eps=3)",0.8555555555555556,3.0
+Wine,2028,1,"DP-GBC (1 release, eps=3)",0.7724867724867724,3.0
+Wine,2028,1,"DP-tree (A trees, eps/A each)",0.7941798941798942,3.0
+Wine,2028,1,"DP-tree (A trees, oracle depth)",0.9153439153439153,3.0
+Wine,2028,1,"DP-tree (1 shared tree, eps=3)",0.9153439153439153,3.0
+Wine,2028,2,"DP-GBC (1 release, eps=3)",0.7896825396825397,3.0
+Wine,2028,2,"DP-tree (A trees, eps/A each)",0.7592592592592593,3.0
+Wine,2028,2,"DP-tree (A trees, oracle depth)",0.7851851851851852,3.0
+Wine,2028,2,"DP-tree (1 shared tree, eps=3)",0.9153439153439153,3.0
+Wine,2028,3,"DP-GBC (1 release, eps=3)",0.7597883597883598,3.0
+Wine,2028,3,"DP-tree (A trees, eps/A each)",0.6848324514991182,3.0
+Wine,2028,3,"DP-tree (A trees, oracle depth)",0.6932980599647266,3.0
+Wine,2028,3,"DP-tree (1 shared tree, eps=3)",0.9153439153439153,3.0
+Wine,2028,5,"DP-GBC (1 release, eps=3)",0.7206349206349206,3.0
+Wine,2028,5,"DP-tree (A trees, eps/A each)",0.43671957671957673,3.0
+Wine,2028,5,"DP-tree (A trees, oracle depth)",0.5417989417989417,3.0
+Wine,2028,5,"DP-tree (1 shared tree, eps=3)",0.9153439153439153,3.0
+Wine,2028,10,"DP-GBC (1 release, eps=3)",0.7206349206349206,3.0
+Wine,2028,10,"DP-tree (A trees, eps/A each)",0.5008994708994708,3.0
+Wine,2028,10,"DP-tree (A trees, oracle depth)",0.51,3.0
+Wine,2028,10,"DP-tree (1 shared tree, eps=3)",0.9153439153439153,3.0
+Wine,2028,20,"DP-GBC (1 release, eps=3)",0.7206349206349205,3.0
+Wine,2028,20,"DP-tree (A trees, eps/A each)",0.3384920634920635,3.0
+Wine,2028,20,"DP-tree (A trees, oracle depth)",0.4205820105820105,3.0
+Wine,2028,20,"DP-tree (1 shared tree, eps=3)",0.9153439153439153,3.0
